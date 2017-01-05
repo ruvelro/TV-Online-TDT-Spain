@@ -1,0 +1,5 @@
+#!/bin/bash
+
+wget -O tmp -q "http://www.apps4two.com/apps/tvonline/ch_channel.php"
+sed 's/,/\n/g' tmp > tmp2
+grep http tmp2
