@@ -1,0 +1,9 @@
+#!/bin/sh
+
+wget -O tmp1 -q "http://www.apps4two.com/apps/tvonline/ch_channel.php"
+
+sed 's/,/\n/g' tmp1 | grep http > tmp2
+sed 's/\"//g' tmp2 > tmp1
+sed 's/\\//g' tmp1 > TV-Online-TDT-Spain.md
+
+rm tmp1 tmp2
