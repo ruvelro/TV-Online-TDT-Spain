@@ -2,8 +2,15 @@
 
 wget -O tmp1 -q "http://www.apps4two.com/apps/tvonline/ch_channel.php"
 
-sed 's/,/\n/g' tmp1 | grep http > tmp2
+echo "# TV-Online-TDT-Spain
+Lista de URLs de canales TDT de España - Abrir directamente con VLC u otro reproductor de vídeo.
+
+Canal | URL 
+--- | ---" > TV-Online-TDT-Spain.md
+
+sed 's/\],\[/\n/g' tmp1 > tmp2
 sed 's/\"//g' tmp2 > tmp1
-sed 's/\\//g' tmp1 > TV-Online-TDT-Spain.md
+sed 's/\\//g' tmp1 > tmp2
+cut -d',' -f6,8 --output-delimiter=' | ' tmp2 >> TV-Online-TDT-Spain.md
 
 rm tmp1 tmp2
