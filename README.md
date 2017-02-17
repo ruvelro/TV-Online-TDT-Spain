@@ -68,7 +68,7 @@ TV Ibiza-Formentera - Baleares(IB) | http://server10.streaming-pro.com:1937/live
 Tindaya TV - Las Palmas G.C. (CN) | http://188.165.135.22/tindayatv/livestream/playlist.m3u8
 Popular TV - Cantabria (CB) | http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8
 Diocesano TV - Toledo (CM) | http://178.32.53.254/rtvd/livestream/playlist.m3u8
-BTV/Betevé  - Barcerlona (CT) | http://iphone-multi.barcelonatv.stream.flumotion.com/barcelonatv/iphone-multi/main.m3u8
+BTV/Betevé  - Barcerlona (CT) | http://api-cdn.overon.es/SmilLive/getLiveIOS/playlist.m3u8?stream=btv_stream01
 VOTV - Barcelona (CT) | http://video-streaming.laxarxa.com:1935/ocasional5/directe/master.m3u8
 Andorra TV - Lleida (CT) | http://194.158.80.31:443/live/web/master.m3u8
 Hit TV - Madrid (MD) | http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist_w.m3u8
