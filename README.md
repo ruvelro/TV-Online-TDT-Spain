@@ -40,10 +40,10 @@ Popular TV - Cantabria (CB) | http://cls.todostreaming.eu/ptvcantabria/livestrea
 La Regional (WEB) - C. Mancha (CM) | http://www.movipbox.com/LAREGIONAL/guia/inicio/demo_1/print_html5_moviles.php
 CMM - C. Mancha (CM) | http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/main.m3u8
 CYL TV - C. Leon (CL) | http://nws.nice264.com/ilive/cyl/cyl_cyltvlivem_MB_348/playlist.m3u8
-TV3 - Cataluu00f1a (CT) | http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
-324 - Cataluu00f1a (CT) | http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
-C33 - Cataluu00f1a (CT) | http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8
-8TV - Cataluu00f1a (CT) | http://iphone.radiocat.net:1935/livereflector/8aldia.stream/playlist.m3u8
+TV3 - Cataluña (CT) | http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+324 - Cataluña (CT) | http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+C33 - Cataluña (CT) | http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8
+8TV - Cataluña (CT) | http://iphone.radiocat.net:1935/livereflector/8aldia.stream/playlist.m3u8
 C. Extremadura - Extramadura (EX) | http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
 TVG Europa - Galicia (GA) | http://media3.crtvg.es/live/_definst_/tvge_2/playlist.m3u8
 TVG America - Galicia (GA) | http://media3.crtvg.es/live/_definst_/tvga_2/playlist.m3u8
