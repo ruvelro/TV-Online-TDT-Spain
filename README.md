@@ -18,8 +18,10 @@ Divinity | http://www.apps4two.com/apps/tvonline/rm2access.php?o=divinity
 Real Madrid TV | http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
 Paramount Channel | http://paramount.live.flumotion.com/live/chunklist.m3u8
 Disney Channel | http://cdnapi.kaltura.com/p/1068292/sp/106829200/playManifest/entryId/1_d8lnsqu0/format/applehttp/protocol/http/uiConfId/27176231/a.m3u8?referrer=aHR0cDovL2Rpc25leWNoYW5uZWwuZXM=&playSessionId=8134da47-6b06-6113-0fde-2079fb2dcca0
+Disney Channel | https://eslivestream-lh.akamaihd.net/i/live_1@318671/master.m3u8
 24h | http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl8-24hlv3aomgl8/_definst_/live.m3u8
 Teledeporte | http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl1-tdplv3aomgl1/_definst_/live.m3u8
+Teledeporte HD | http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl1-tdphdlv3aomgl1/_definst_/live/stream3.m3u8
 TVE 60 aniversario | http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl0-irtve24lv3aomgl0/_definst_/live.m3u8
 13TV | http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
 DMax | http://zba2-2-hls5-live.zahs.tv/ES_veo/master.m3u8?z32=OVZWK4S7NFSD2MJRGYZTCNJZHETG22LOOJQXIZJ5GATG2YLYOJQXIZJ5GE2TAMBGONUWOPJUMM4DAYRTGRQTSYJZGA4TEOLDMMYWMNRRGU4TEYTCGQ4TGNTEG4TGG43JMQ6TCNBZG5CTKNKFGBBUGRRTGQZTQLJTHE3TQRBYHA4UERBXIU3DQNCBEZUW42LUNFQWY4TBORST2MA
@@ -74,4 +76,11 @@ Andorra TV - Lleida (CT) | http://194.158.80.31:443/live/web/master.m3u8
 Hit TV - Madrid (MD) | http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist_w.m3u8
 Intereconomia - Madrid (MD) | http://edge3.adnstream.com:81/hls/intereconomia.m3u8
 Ribera TV - Valencia (VC) | http://orion.comelson.es/ribera/livestream/chunklist_w476320974.m3u8
+Televisió Badalona | http://cdnlive.shooowit.net/badalonatvlive/smil:live.smil/playlist.m3u8
+Televisió de Girona | http://tvgirona.dnssw.net:1935/live/Icontouch/playlist.m3u8
+Tarragona TV | http://cdns724ste1010.shooowit.net/tac12live/amlst:live/playlist.m3u8
+El Punt Avui TV | http://cdns724ste1010.shooowit.net/puntavuitvlive/smil:live.smil/playlist.m3u8
+Terrassa TV | http://cast.streamingconnect.tv:1935/terrassaweb/terrassaweb/playlist.m3u8
+Sevilla F.C. | http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-p.m3u8
+BETISTV | http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8
 Nasa TV - EEUU | http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
