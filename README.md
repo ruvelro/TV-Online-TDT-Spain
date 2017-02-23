@@ -29,9 +29,9 @@ FDF | http://cdn.sitenow.me/live/fdfhd_xrewtt/chunklist.m3u8
 Ten | http://cdn.sitenow.me/live/ten_azj987s/chunklist.m3u8
 DKiss | http://kisstvnacional.es.flash.glb.canalweb.com/kisstvnacional.es/mp4:9KISSTV.mp4/playlist.m3u8
 Energy | http://www.apps4two.com/apps/tvonline/rm2access.php?o=energy
-Boing | 
-Gol TV | 
-Clan TV | 
+Boing | -
+Gol TV | -
+Clan TV | -
 C. Sur Andalucia - Andalucia (AN) | http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
 ATV - Andalucia (AN) | http://195.55.74.205/rtva/champions-hls/stream.m3u8
 Aragon TV - Aragon (AR) | http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
