@@ -49,7 +49,7 @@ C33 - Cataluña (CT) | http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/
 C. Extremadura - Extramadura (EX) | http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
 TVG Europa - Galicia (GA) | http://media3.crtvg.es/live/_definst_/tvge_2/playlist.m3u8
 TVG America - Galicia (GA) | http://media3.crtvg.es/live/_definst_/tvga_2/playlist.m3u8
-V Televisiu00f3n (WEB) - Galicia (GA) | 
+V Televisión - Galicia (GA) | 
 7 RM - Murcia (MC) | http://hls0.80670-live0.dna.qbrick.com/80670-live0/murciatv/playlist.m3u8
 Telemadrid - Madrid (MD) | http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live.m3u8
 La Otra - Madrid (MD) | http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live/stream1.m3u8
@@ -63,7 +63,7 @@ Mediterraneo TV - C.Valenciana (VC) | http://streaming.enetres.net/489DDF7FE9824
 RTV Ceuta - Ceuta (CE) | http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
 Ceuta TV - Ceuta (CE) | http://cls.todostreaming.eu/anguloce/livestream/chunklist.m3u8
 TV Melilla - Melilla (ML) | http://melillatv.hls.flumotion.com/melilla/live-hls-2/playlist.m3u8
-Onda Algeciras TV - Cu00e1diz (AN) | http://cls.provideo.es/algecirastv/livestream/master.m3u8
+Onda Algeciras TV - Cádiz (AN) | http://cls.provideo.es/algecirastv/livestream/master.m3u8
 Canal Costa - Huelva (AN) | http://cls2.todostreaming.eu/azahara/IKbtqOuj/playlist.m3u8
 Huesca TV - Huesca (AR) | http://teledifusion.tv:1935/dia/dia/playlist.m3u8
 TV Ibiza-Formentera - Baleares(IB) | http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8
