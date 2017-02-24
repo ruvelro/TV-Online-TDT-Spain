@@ -1,6 +1,8 @@
 # TV-Online-TDT-Spain
 Lista de URLs de canales TDT de España - Abrir directamente con VLC u otro reproductor de vídeo.
 
+Manual: [Cómo abrir estos canales de TDT en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-online-streaming-utilizando-tan-solo-vlc/)
+
 Canal | URL 
 --- | ---
 La 1 | http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl7-la1lv3aomgl7/_definst_/live.m3u8
