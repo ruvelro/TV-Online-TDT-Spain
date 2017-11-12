@@ -86,3 +86,5 @@ Terrassa TV | http://cast.streamingconnect.tv:1935/terrassaweb/terrassaweb/playl
 Sevilla F.C. | http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-p.m3u8
 BETISTV | http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8
 Nasa TV - EEUU | http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+Cordoba Internacional | http://streaming.enetres.net/69BF7C8664934222BA3F58530449B8CE021/mobile/playlist.m3u8
+HispanTV | http://178.32.255.199:1935/live/hispantv/playlist.m3u8
