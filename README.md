@@ -3,6 +3,8 @@ Lista de URLs de canales TDT de España - Abrir directamente con VLC u otro repr
 
 Manual: [Cómo abrir estos canales de TDT en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-online-streaming-utilizando-tan-solo-vlc/)
 
+Plugin Kodi: Comprime la carpeta plugin.video.tdtiberia en un fichero zip con ese mismo nombre. Sigue la guia [instalar plugin en zip](http://kodi.wiki/view/HOW-TO:Install_add-ons_from_zip_files) para instalar el plugin.
+
 Canal | URL 
 --- | ---
 La 1 | http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl7-la1lv3aomgl7/_definst_/live.m3u8
