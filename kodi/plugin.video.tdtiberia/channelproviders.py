@@ -9,7 +9,6 @@ def uri_validator(x):
     except:
         return False
 
-
 def similar(a, b):
     return SequenceMatcher(None, a, b).ratio() > 0.8
 
@@ -46,8 +45,6 @@ class GitHubMD:
                 channelName , channelURL = channel.split('|')
                 # Remove annoying first space
                 channelURL=channelURL[1:]
-                # If we can set some day any icon ...
-                # li = xbmcgui.ListItem('My First Video!', iconImage='DefaultVideo.png')
                 if uri_validator(channelURL):
                     processedChannelList.append([channelName, channelURL])
         
