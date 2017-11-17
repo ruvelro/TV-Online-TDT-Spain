@@ -2,39 +2,18 @@ import sys
 import xbmcgui
 import xbmcplugin
 
-import urllib2
-from urlparse import urlparse
-from string import whitespace
-
-def uri_validator(x):
-    try:
-        result = urlparse(x)
-        return result.scheme and result.netloc and result.path
-    except:
-        return False
+import channelproviders
 
 addon_handle = int(sys.argv[1])
 xbmcplugin.setContent(addon_handle, 'movies')
 
-response = urllib2.urlopen('https://raw.githubusercontent.com/ruvelro/TV-Online-TDT-Spain/master/README.md')
-html = response.read()
-# TODO: this could fail, handle the error
+# provider = channelproviders.TvOnlineAPP()
+provider = channelproviders.GitHubMD()
 
-# Parse the readme.md
-# get to the list
-header, channelList = html.split('--- | ---')
+channelList = provider.retrieveList()
 
-# Split for each row
-for channel in channelList.split('\n'):
-	# This delimits a element in the list
-	if '|' in channel:	
-		channelName , channelURL = channel.split('|')
-		# Remove annoying first space
-		channelURL=channelURL[1:]
-		# If we can set some day any icon ...
-		# li = xbmcgui.ListItem('My First Video!', iconImage='DefaultVideo.png')
-		if uri_validator(channelURL):
-			channelListItem = xbmcgui.ListItem(channelName)
-			xbmcplugin.addDirectoryItem(handle=addon_handle, url=channelURL, listitem=channelListItem)
+for channel in channelList:
+	channelListItem = xbmcgui.ListItem(channel[0])
+	xbmcplugin.addDirectoryItem(handle=addon_handle, url=channel[1], listitem=channelListItem)
 
 xbmcplugin.endOfDirectory(addon_handle)
