@@ -1,0 +1,11 @@
+language: bash
+
+git:
+  depth: 1
+
+script:
+ - bash ./tvchecker > README.md
+
+after_success:
+ - bash .travis/deploy.sh
+
