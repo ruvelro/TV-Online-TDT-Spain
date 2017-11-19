@@ -4,7 +4,7 @@ git:
   depth: 1
 
 script:
- - bash ./tvchecker > README.md
+ - bash ./tvchecker | tee README.md
 
 after_success:
  - bash .travis/deploy.sh
