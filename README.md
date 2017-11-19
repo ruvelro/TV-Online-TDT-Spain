@@ -14,9 +14,9 @@ Cuatro | http://www.apps4two.com/apps/tvonline/rm2access.php?o=cuatro
 Telecinco | http://www.apps4two.com/apps/tvonline/rm2access.php?o=telecinco
 La Sexta | http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 A3Series | http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-Nova | http://a3live-lh.akamaihd.net/i/geonova_1@379404/index_2_av-b.m3u8
-Neox | http://a3live-lh.akamaihd.net/i/nxhls/geoneox_1@35261/index_1_av-p.m3u8?sd=10&rebase=on
-Mega | http://a3live-lh.akamaihd.net/i/geomega_1@328914/index_1_av-p.m3u8?sd=10&rebase=on
+Nova | http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+Neox | http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+Mega | http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
 Be Mad TV | http://www.apps4two.com/apps/tvonline/rm2access.php?o=bemad
 Divinity | http://www.apps4two.com/apps/tvonline/rm2access.php?o=divinity
 Real Madrid TV | http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
