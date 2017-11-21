@@ -32,9 +32,11 @@ jq -c '.[]' tv-spain.json | while read i; do
     
     if [ "$(echo "$request"| grep -i "Content-Type:" | cut -d: -f2 | awk '{print $1}' | tr -dc '[[:print:]]')" == "application/vnd.apple.mpegurl" ] || echo "$request" | grep -qi "EXT-X-STREAM"; then
         echo -n "$status_ok"
+        jq "map((select(.id == $id) | .enabled) |= true)" tv-spain.json | sponge tv-spain.json
 #         echo "$request" > .log_ok_$id
     else
         echo -n "$status_dead"
+        jq "map((select(.id == $id) | .enabled) |= false)" tv-spain.json | sponge tv-spain.json
 #         echo "$request" > .log_$id
     fi
     
