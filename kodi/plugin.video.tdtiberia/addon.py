@@ -1,6 +1,7 @@
 import sys
 import xbmcgui
 import xbmcplugin
+import xbmcaddon
 
 import channelproviders
 
