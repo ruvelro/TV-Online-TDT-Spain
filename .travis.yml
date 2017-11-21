@@ -1,5 +1,10 @@
 language: bash
 
+addons:
+  apt:
+    packages:
+    - moreutils
+
 git:
   depth: 1
 
