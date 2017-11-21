@@ -9,9 +9,12 @@ xbmcplugin.setContent(addon_handle, 'movies')
 
 
 thisAddon = xbmcaddon.Addon()
-iconsWanted = thisAddon.getSetting('retrieve_icons') # returns the string 'true' or 'false'
+iconsWanted = thisAddon.getSetting('retrieve_icons')
+includeDisabled = thisAddon.getSetting('include_disabled_channels')
 # thisAddon.setSetting('my_setting', 'false')
 
+
+# provider = channelproviders.GitHubJSON(includeDisabled)
 # provider = channelproviders.TvOnlineAPP()
 provider = channelproviders.GitHubMD()
 

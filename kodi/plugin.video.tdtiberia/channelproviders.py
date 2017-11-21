@@ -35,10 +35,11 @@ class GitHubJSON:
         self.responseText = response.read()
         self.channelList = json.loads(self.responseText)
 
-    def retrieveList(self):
+    def retrieveList(self, includeDisabled = False):
         processedChannelList = []
         for channel in self.channelList:
-            processedChannelList.append([channel['name'].encode('UTF-8'), channel['link_m3u8'].encode('ascii')])
+            if includeDisabled or channel['enabled'] == True:
+                processedChannelList.append([channel['name'].encode('UTF-8'), channel['link_m3u8'].encode('ascii')])
         return processedChannelList
 
 
