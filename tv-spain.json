@@ -22,14 +22,14 @@
   },
   {
     "id": 4,
-    "enabled": true,
+    "enabled": false,
     "name": "Cuatro",
     "link_m3u8": "http://www.apps4two.com/apps/tvonline/rm2access.php?o=cuatro",
     "link_logo": ""
   },
   {
     "id": 5,
-    "enabled": true,
+    "enabled": false,
     "name": "Telecinco",
     "link_m3u8": "http://www.apps4two.com/apps/tvonline/rm2access.php?o=telecinco",
     "link_logo": ""
@@ -71,14 +71,14 @@
   },
   {
     "id": 11,
-    "enabled": true,
+    "enabled": false,
     "name": "Be Mad TV",
     "link_m3u8": "http://www.apps4two.com/apps/tvonline/rm2access.php?o=bemad",
     "link_logo": ""
   },
   {
     "id": 12,
-    "enabled": true,
+    "enabled": false,
     "name": "Divinity",
     "link_m3u8": "http://www.apps4two.com/apps/tvonline/rm2access.php?o=divinity",
     "link_logo": ""
@@ -92,21 +92,21 @@
   },
   {
     "id": 14,
-    "enabled": true,
+    "enabled": false,
     "name": "Paramount Channel",
     "link_m3u8": "http://paramount.live.flumotion.com/live/chunklist.m3u8",
     "link_logo": ""
   },
   {
     "id": 15,
-    "enabled": true,
+    "enabled": false,
     "name": "Disney Channel",
     "link_m3u8": "http://cdnapi.kaltura.com/p/1068292/sp/106829200/playManifest/entryId/1_d8lnsqu0/format/applehttp/protocol/http/uiConfId/27176231/a.m3u8?referrer=aHR0cDovL2Rpc25leWNoYW5uZWwuZXM=&playSessionId=8134da47-6b06-6113-0fde-2079fb2dcca0",
     "link_logo": ""
   },
   {
     "id": 16,
-    "enabled": true,
+    "enabled": false,
     "name": "Disney Channel",
     "link_m3u8": "https://eslivestream-lh.akamaihd.net/i/live_1@318671/master.m3u8",
     "link_logo": ""
@@ -127,7 +127,7 @@
   },
   {
     "id": 19,
-    "enabled": true,
+    "enabled": false,
     "name": "Teledeporte HD",
     "link_m3u8": "http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl1-tdphdlv3aomgl1/_definst_/live/stream3.m3u8",
     "link_logo": ""
@@ -148,21 +148,21 @@
   },
   {
     "id": 22,
-    "enabled": true,
+    "enabled": false,
     "name": "DMax",
     "link_m3u8": "http://zba2-2-hls5-live.zahs.tv/ES_veo/master.m3u8?z32=OVZWK4S7NFSD2MJRGYZTCNJZHETG22LOOJQXIZJ5GATG2YLYOJQXIZJ5GE2TAMBGONUWOPJUMM4DAYRTGRQTSYJZGA4TEOLDMMYWMNRRGU4TEYTCGQ4TGNTEG4TGG43JMQ6TCNBZG5CTKNKFGBBUGRRTGQZTQLJTHE3TQRBYHA4UERBXIU3DQNCBEZUW42LUNFQWY4TBORST2MA",
     "link_logo": ""
   },
   {
     "id": 23,
-    "enabled": true,
+    "enabled": false,
     "name": "FDF",
     "link_m3u8": "http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/5vMGFjYjE6FW20QNvfFor1J8AiF0JAyp/cn/73742da67a5947919a8bb82035fa9224.m3u8",
     "link_logo": ""
   },
   {
     "id": 24,
-    "enabled": true,
+    "enabled": false,
     "name": "Ten",
     "link_m3u8": "http://cdn.sitenow.me/live/ten_azj987s/chunklist.m3u8",
     "link_logo": ""
@@ -176,21 +176,21 @@
   },
   {
     "id": 26,
-    "enabled": true,
+    "enabled": false,
     "name": "Energy",
     "link_m3u8": "http://www.apps4two.com/apps/tvonline/rm2access.php?o=energy",
     "link_logo": ""
   },
   {
     "id": 27,
-    "enabled": true,
+    "enabled": false,
     "name": "C. Sur Andalucia - Andalucia (AN)",
     "link_m3u8": "http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8",
     "link_logo": ""
   },
   {
     "id": 28,
-    "enabled": true,
+    "enabled": false,
     "name": "ATV - Andalucia (AN)",
     "link_m3u8": "http://195.55.74.205/rtva/champions-hls/stream.m3u8",
     "link_logo": ""
@@ -232,21 +232,21 @@
   },
   {
     "id": 34,
-    "enabled": true,
+    "enabled": false,
     "name": "La Regional (WEB) - C. Mancha (CM)",
     "link_m3u8": "http://www.movipbox.com/LAREGIONAL/guia/inicio/demo_1/print_html5_moviles.php",
     "link_logo": ""
   },
   {
     "id": 35,
-    "enabled": true,
+    "enabled": false,
     "name": "CMM - C. Mancha (CM)",
     "link_m3u8": "http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/main.m3u8",
     "link_logo": ""
   },
   {
     "id": 36,
-    "enabled": true,
+    "enabled": false,
     "name": "CYL TV - C. Leon (CL)",
     "link_m3u8": "http://nws.nice264.com/ilive/cyl/cyl_cyltvlivem_MB_348/playlist.m3u8",
     "link_logo": ""
@@ -288,21 +288,21 @@
   },
   {
     "id": 42,
-    "enabled": true,
+    "enabled": false,
     "name": "TVG Europa - Galicia (GA)",
     "link_m3u8": "http://media3.crtvg.es/live/_definst_/tvge_2/playlist.m3u8",
     "link_logo": ""
   },
   {
     "id": 43,
-    "enabled": true,
+    "enabled": false,
     "name": "TVG America - Galicia (GA)",
     "link_m3u8": "http://media3.crtvg.es/live/_definst_/tvga_2/playlist.m3u8",
     "link_logo": ""
   },
   {
     "id": 44,
-    "enabled": true,
+    "enabled": false,
     "name": "7 RM - Murcia (MC)",
     "link_m3u8": "http://hls0.80670-live0.dna.qbrick.com/80670-live0/murciatv/playlist.m3u8",
     "link_logo": ""
@@ -316,14 +316,14 @@
   },
   {
     "id": 46,
-    "enabled": true,
+    "enabled": false,
     "name": "La Otra - Madrid (MD)",
     "link_m3u8": "http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live/stream1.m3u8",
     "link_logo": ""
   },
   {
     "id": 47,
-    "enabled": true,
+    "enabled": false,
     "name": "Libertad Digital - Madrid (MD)",
     "link_m3u8": "http://stream-09.vty.dailymotion.com/09/dm/1/xnm032/live.isml/live.m3u8?e=1481401957&st=FfaF_FK5REWIoSlanFC8kQ",
     "link_logo": ""
@@ -358,14 +358,14 @@
   },
   {
     "id": 52,
-    "enabled": true,
+    "enabled": false,
     "name": "TVR 10 - La Rioja (RI)",
     "link_m3u8": "http://teledifusion.tv:1935/rioja/rioja/playlist.m3u8",
     "link_logo": ""
   },
   {
     "id": 53,
-    "enabled": true,
+    "enabled": false,
     "name": "Mediterraneo TV - C.Valenciana (VC)",
     "link_m3u8": "http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/mobile/playlist.m3u8?idLive=021&referer=aHR0cDovL3RlbGVhbWUuY29tL3R2bWVkaXRlcnJhbmVvZW5kaXJlY3RvLw==&zz=m3u8",
     "link_logo": ""
@@ -386,7 +386,7 @@
   },
   {
     "id": 56,
-    "enabled": true,
+    "enabled": false,
     "name": "TV Melilla - Melilla (ML)",
     "link_m3u8": "http://melillatv.hls.flumotion.com/melilla/live-hls-2/playlist.m3u8",
     "link_logo": ""
@@ -400,14 +400,14 @@
   },
   {
     "id": 58,
-    "enabled": true,
+    "enabled": false,
     "name": "Canal Costa - Huelva (AN)",
     "link_m3u8": "http://cls2.todostreaming.eu/azahara/IKbtqOuj/playlist.m3u8",
     "link_logo": ""
   },
   {
     "id": 59,
-    "enabled": true,
+    "enabled": false,
     "name": "Huesca TV - Huesca (AR)",
     "link_m3u8": "http://teledifusion.tv:1935/dia/dia/playlist.m3u8",
     "link_logo": ""
@@ -421,7 +421,7 @@
   },
   {
     "id": 61,
-    "enabled": true,
+    "enabled": false,
     "name": "Tindaya TV - Las Palmas G.C. (CN)",
     "link_m3u8": "http://188.165.135.22/tindayatv/livestream/playlist.m3u8",
     "link_logo": ""
@@ -463,14 +463,14 @@
   },
   {
     "id": 67,
-    "enabled": true,
+    "enabled": false,
     "name": "Hit TV - Madrid (MD)",
     "link_m3u8": "http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist_w.m3u8",
     "link_logo": ""
   },
   {
     "id": 68,
-    "enabled": true,
+    "enabled": false,
     "name": "Intereconomia - Madrid (MD)",
     "link_m3u8": "http://edge3.adnstream.com:81/hls/intereconomia.m3u8",
     "link_logo": ""
@@ -484,35 +484,35 @@
   },
   {
     "id": 70,
-    "enabled": true,
+    "enabled": false,
     "name": "Televisió Badalona",
     "link_m3u8": "http://cdnlive.shooowit.net/badalonatvlive/smil:live.smil/playlist.m3u8",
     "link_logo": ""
   },
   {
     "id": 71,
-    "enabled": true,
+    "enabled": false,
     "name": "Televisió de Girona",
     "link_m3u8": "http://tvgirona.dnssw.net:1935/live/Icontouch/playlist.m3u8",
     "link_logo": ""
   },
   {
     "id": 72,
-    "enabled": true,
+    "enabled": false,
     "name": "Tarragona TV",
     "link_m3u8": "http://cdns724ste1010.shooowit.net/tac12live/amlst:live/playlist.m3u8",
     "link_logo": ""
   },
   {
     "id": 73,
-    "enabled": true,
+    "enabled": false,
     "name": "El Punt Avui TV",
     "link_m3u8": "http://cdns724ste1010.shooowit.net/puntavuitvlive/smil:live.smil/playlist.m3u8",
     "link_logo": ""
   },
   {
     "id": 74,
-    "enabled": true,
+    "enabled": false,
     "name": "Terrassa TV",
     "link_m3u8": "http://cast.streamingconnect.tv:1935/terrassaweb/terrassaweb/playlist.m3u8",
     "link_logo": ""
@@ -526,14 +526,14 @@
   },
   {
     "id": 76,
-    "enabled": true,
+    "enabled": false,
     "name": "BETISTV",
     "link_m3u8": "http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8",
     "link_logo": ""
   },
   {
     "id": 77,
-    "enabled": true,
+    "enabled": false,
     "name": "Nasa TV - EEUU",
     "link_m3u8": "http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8",
     "link_logo": ""
