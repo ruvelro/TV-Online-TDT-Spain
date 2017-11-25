@@ -20,6 +20,7 @@ set -x
 ## UPLOAD NEW HOSTS
 git checkout $TRAVIS_BRANCH
 git add README.md
+git add tv-spain.json
 git commit -m "Update Status: $(date +%d-%m-%Y)"
 
 git push origin $TRAVIS_BRANCH 2>/dev/null
