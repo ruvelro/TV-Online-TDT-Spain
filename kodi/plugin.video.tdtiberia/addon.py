@@ -17,7 +17,7 @@ includeDisabled = thisAddon.getSetting('include_disabled_channels')
 
 # provider = channelproviders.GitHubJSON(includeDisabled)
 # provider = channelproviders.TvOnlineAPP()
-provider = channelproviders.GitHubMD()
+provider = channelproviders.GitHubJSON()
 
 channelList = provider.retrieveList()
 
