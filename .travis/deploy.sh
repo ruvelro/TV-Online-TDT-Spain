@@ -14,12 +14,13 @@ git config --global user.email "$GH_USER_EMAIL"
 git config --global user.name "$GH_USER_NAME"
 
 set +x
-git remote set-url origin https://vk496:$GH_TOKEN@github.com/vk496/TV-Online-TDT-Spain
+git remote set-url origin https://ruvelro:$GH_TOKEN@github.com/ruvelro/TV-Online-TDT-Spain
 set -x
 
 ## UPLOAD NEW HOSTS
 git checkout $TRAVIS_BRANCH
 git add README.md
+git add tv-spain.json
 git commit -m "Update Status: $(date +%d-%m-%Y)"
 
 git push origin $TRAVIS_BRANCH 2>/dev/null

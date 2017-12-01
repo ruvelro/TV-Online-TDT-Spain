@@ -1,4 +1,6 @@
 import urllib2
+import json
+
 from urlparse import urlparse
 from difflib import SequenceMatcher
 
@@ -23,6 +25,21 @@ class TvOnlineAPP:
         processedChannelList = []
         for channel in self.channelList:
             processedChannelList.append([channel[5], channel[7].replace('\/','/')])
+        return processedChannelList
+
+
+class GitHubJSON:
+    URL = "https://raw.githubusercontent.com/vk496/TV-Online-TDT-Spain/master/tv-spain.json"
+    def __init__(self):
+        response = urllib2.urlopen(self.URL)
+        self.responseText = response.read()
+        self.channelList = json.loads(self.responseText)
+
+    def retrieveList(self, includeDisabled = False):
+        processedChannelList = []
+        for channel in self.channelList:
+            if includeDisabled or channel['enabled'] == True:
+                processedChannelList.append([channel['name'].encode('UTF-8'), channel['link_m3u8'].encode('ascii')])
         return processedChannelList
 
 
@@ -62,6 +79,7 @@ def CheckChannelList(list1, list2):
 
 if __name__ == "__main__":
     cp1 = TvOnlineAPP()
-    cp2 = GitHubMD()
+    #cp2 = GitHubMD()
+    cp2 = GitHubJSON()
     
     CheckChannelList(cp1.retrieveList(), cp2.retrieveList())
