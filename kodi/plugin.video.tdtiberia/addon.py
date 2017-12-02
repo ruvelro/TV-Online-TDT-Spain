@@ -10,15 +10,11 @@ import icons
 addon_handle = int(sys.argv[1])
 xbmcplugin.setContent(addon_handle, 'movies')
 
-
 thisAddon = xbmcaddon.Addon()
-iconsWanted = thisAddon.getSetting('retrieve_icons')
-includeDisabledString = thisAddon.getSetting('include_disabled_channels')
 
-if includeDisabledString == 'false':
-	includeDisabled = False
-else:
-	includeDisabled = True
+# Empty strings evaluate to False, but everything else evaluates to True. 
+iconsWanted = thisAddon.getSetting('retrieve_icons') == 'true'
+includeDisabled = thisAddon.getSetting('include_disabled_channels') == 'true'
 
 provider = channelproviders.GitHubJSON(includeDisabled)
 # provider = channelproviders.TvOnlineAPP()
