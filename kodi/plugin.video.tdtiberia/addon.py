@@ -25,9 +25,10 @@ channelList = provider.retrieveList()
 for channel in channelList:
 	iconfile = icons.getIcon(channel[0])
 
-	if iconfile == None:
+	if iconfile == None or iconsWanted == False:
 		channelListItem = xbmcgui.ListItem(channel[0])
 	else:
+                # TODO: Under fixing
 		channelListItem = xbmcgui.ListItem(channel[0], iconImage="resources/icons/"+iconfile)
 	xbmcplugin.addDirectoryItem(handle=addon_handle, url=channel[1], listitem=channelListItem)
 
