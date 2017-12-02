@@ -1,0 +1,16 @@
+language: bash
+
+addons:
+  apt:
+    packages:
+    - moreutils
+
+git:
+  depth: 1
+
+script:
+ - bash ./tvchecker | tee README.md
+
+after_success:
+ - bash .travis/deploy.sh
+
