@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.tdtiberia" name="TDT Iberia" version="0.0.2" provider-name="urnenfeld">
+<addon id="plugin.video.tdtiberia" name="TDT Iberia" version="0.1.0" provider-name="urnenfeld">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
