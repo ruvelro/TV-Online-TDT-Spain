@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
-    <setting id="retrieve_icons" type="bool" default="false" label="Cargar icono para los canales dinamicamente"/>
+    <setting id="retrieve_icons" type="bool" default="false" label="Cargar iconos para los canales"/>
     <setting id="include_disabled_channels" type="bool" default="false" label="Cargar canales reportados como no disponibles"/>
 </settings>

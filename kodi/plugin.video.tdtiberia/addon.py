@@ -15,6 +15,8 @@ thisAddon = xbmcaddon.Addon()
 # Empty strings evaluate to False, but everything else evaluates to True. 
 iconsWanted = thisAddon.getSetting('retrieve_icons') == 'true'
 includeDisabled = thisAddon.getSetting('include_disabled_channels') == 'true'
+thisPluginPath=thisAddon.getAddonInfo('path')
+iconsPath=thisPluginPath+'/resources/icons/'
 
 provider = channelproviders.GitHubJSON(includeDisabled)
 # provider = channelproviders.TvOnlineAPP()
@@ -23,13 +25,12 @@ provider = channelproviders.GitHubJSON(includeDisabled)
 channelList = provider.retrieveList()
 
 for channel in channelList:
-	iconfile = icons.getIcon(channel[0])
 
-	if iconfile == None or iconsWanted == False:
-		channelListItem = xbmcgui.ListItem(channel[0])
-	else:
-                # TODO: Under fixing
-		channelListItem = xbmcgui.ListItem(channel[0], iconImage="resources/icons/"+iconfile)
+	channelListItem = xbmcgui.ListItem(channel[0])
+	if iconsWanted:
+		iconfile = icons.getIcon(channel[0])
+		if iconfile != None:
+			channelListItem.setArt({ 'icon': iconsPath+iconfile, 'poster': iconsPath+iconfile, 'banner' : iconsPath+iconfile })
 	xbmcplugin.addDirectoryItem(handle=addon_handle, url=channel[1], listitem=channelListItem)
 
 xbmcplugin.endOfDirectory(addon_handle)
