@@ -1,0 +1,45 @@
+#!/bin/sh
+
+status_ok=":green_heart:"
+status_dead=":red_circle:"
+
+echo "# TV-Online-TDT-Spain
+Lista de URLs de canales TDT de España - Abrir directamente con VLC u otro reproductor de vídeo.
+
+Manual: [Cómo abrir estos canales de TDT en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-online-streaming-utilizando-tan-solo-vlc/)
+
+Plugin Kodi: Comprime la carpeta plugin.video.tdtiberia en un fichero zip con ese mismo nombre. Sigue la guia [instalar plugin en zip](http://kodi.wiki/view/HOW-TO:Install_add-ons_from_zip_files) para instalar el plugin.
+
+## Status Update: **$(date +"%d-%m-%y")**
+
+Status| Description
+--- | --- |
+$status_ok|OK
+$status_dead|Link no accesible
+
+
+Status | Canal | URL 
+--- | --- | ---" 
+
+
+jq -c '.[]' tv-spain.json | while read i; do
+    # do stuff with $i
+    url=$(echo $i | jq -r '.link_m3u8')
+    name=$(echo $i | jq -r '.name')
+    id=$(echo $i | jq -r '.id')
+    
+    request="$(curl --compressed -H "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36" -m 7 -s -v "$url" 2>&1)"
+    
+    if [ "$(echo "$request"| grep -i "Content-Type:" | cut -d: -f2 | awk '{print $1}' | tr -dc '[[:print:]]')" == "application/vnd.apple.mpegurl" ] || echo "$request" | grep -qi "EXT-X-STREAM"; then
+        echo -n "$status_ok"
+        jq "map((select(.id == $id) | .enabled) |= true)" tv-spain.json | sponge tv-spain.json
+#         echo "$request" > .log_ok_$id
+    else
+        echo -n "$status_dead"
+        jq "map((select(.id == $id) | .enabled) |= false)" tv-spain.json | sponge tv-spain.json
+#         echo "$request" > .log_$id
+    fi
+    
+    echo "|$name|$url"
+    
+done
