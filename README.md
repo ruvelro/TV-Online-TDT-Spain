@@ -1,4 +1,7 @@
 # TV-Online-TDT-Spain
+
+[![Travis](https://img.shields.io/travis/ruvelro/TV-Online-TDT-Spain.svg)](https://travis-ci.org/ruvelro/TV-Online-TDT-Spain)
+
 Lista de URLs de canales TDT de España - Abrir directamente con VLC u otro reproductor de vídeo.
 
 Manual: [Cómo abrir estos canales de TDT en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-online-streaming-utilizando-tan-solo-vlc/)
