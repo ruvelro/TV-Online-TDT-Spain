@@ -225,7 +225,7 @@
   },
   {
     "id": 33,
-    "enabled": true,
+    "enabled": false,
     "name": "Popular TV - Cantabria (CB)",
     "link_m3u8": "http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8",
     "link_logo": ""
@@ -365,14 +365,14 @@
   },
   {
     "id": 53,
-    "enabled": true,
+    "enabled": false,
     "name": "Mediterraneo TV - C.Valenciana (VC)",
     "link_m3u8": "http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/mobile/playlist.m3u8?idLive=021&referer=aHR0cDovL3RlbGVhbWUuY29tL3R2bWVkaXRlcnJhbmVvZW5kaXJlY3RvLw==&zz=m3u8",
     "link_logo": ""
   },
   {
     "id": 54,
-    "enabled": false,
+    "enabled": true,
     "name": "RTV Ceuta - Ceuta (CE)",
     "link_m3u8": "http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8",
     "link_logo": ""
@@ -428,7 +428,7 @@
   },
   {
     "id": 62,
-    "enabled": true,
+    "enabled": false,
     "name": "Popular TV - Cantabria (CB)",
     "link_m3u8": "http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8",
     "link_logo": ""
@@ -547,7 +547,7 @@
   },
   {
     "id": 79,
-    "enabled": false,
+    "enabled": true,
     "name": "HispanTV",
     "link_m3u8": "http://107.189.40.49:1935/live/hispantv/playlist.m3u8",
     "link_logo": ""
@@ -558,5 +558,5 @@
     "name": "Russia Today Español",
     "link_m3u8": "https://secure-streams.akamaized.net/rt-esp/index.m3u8",
     "link_logo": ""
-  } 
+  }
 ]
