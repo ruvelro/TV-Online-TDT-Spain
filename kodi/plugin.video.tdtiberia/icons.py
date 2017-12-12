@@ -39,7 +39,10 @@ static_icons = (('La 1', 'rtve.png'),
 		('Ribera TV - Valencia (VC)', None),
 		('Sevilla F.C.', None),
 		('Cordoba Internacional', 'CordobaInternacional.png'),
-		('HispanTV', 'hispantv.png'))
+		('HispanTV', 'hispantv.png'),
+		('Russia Today Espa\xc3\xb1ol', 'rt-esp.jpg')
+		)
+
 
 def getIcon(channelName, method='static'):
 	if method == 'static':
