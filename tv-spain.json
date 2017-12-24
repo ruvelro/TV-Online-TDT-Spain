@@ -141,7 +141,7 @@
   },
   {
     "id": 21,
-    "enabled": true,
+    "enabled": false,
     "name": "13TV",
     "link_m3u8": "http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8",
     "link_logo": ""
@@ -344,7 +344,7 @@
   },
   {
     "id": 50,
-    "enabled": true,
+    "enabled": false,
     "name": "Vaughan TV - Navarra (NC)",
     "link_m3u8": "http://vaughantv.streaming-pro.com:1935/live/vaughantv/playlist.m3u8",
     "link_logo": ""
@@ -372,7 +372,7 @@
   },
   {
     "id": 54,
-    "enabled": true,
+    "enabled": false,
     "name": "RTV Ceuta - Ceuta (CE)",
     "link_m3u8": "http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8",
     "link_logo": ""
