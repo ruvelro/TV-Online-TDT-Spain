@@ -8,7 +8,7 @@ Manual: [Cómo abrir estos canales de TDT en VLC](https://www.softzone.es/2016/1
 
 Plugin Kodi: Comprime la carpeta plugin.video.tdtiberia en un fichero zip con ese mismo nombre. Sigue la guia [instalar plugin en zip](http://kodi.wiki/view/HOW-TO:Install_add-ons_from_zip_files) para instalar el plugin.
 
-## Status Update: **26-12-17**
+## Status Update: **27-12-17**
 
 Status| Description
 --- | --- |
@@ -72,7 +72,7 @@ Status | Canal | URL
 :red_circle:|TVR 10 - La Rioja (RI)|http://teledifusion.tv:1935/rioja/rioja/playlist.m3u8
 :green_heart:|Mediterraneo TV - C.Valenciana (VC)|http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/mobile/playlist.m3u8?idLive=021&referer=aHR0cDovL3RlbGVhbWUuY29tL3R2bWVkaXRlcnJhbmVvZW5kaXJlY3RvLw==&zz=m3u8
 :green_heart:|RTV Ceuta - Ceuta (CE)|http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
-:green_heart:|Ceuta TV - Ceuta (CE)|http://cls.todostreaming.eu/anguloce/livestream/chunklist.m3u8
+:red_circle:|Ceuta TV - Ceuta (CE)|http://cls.todostreaming.eu/anguloce/livestream/chunklist.m3u8
 :red_circle:|TV Melilla - Melilla (ML)|http://melillatv.hls.flumotion.com/melilla/live-hls-2/playlist.m3u8
 :green_heart:|Onda Algeciras TV - Cádiz (AN)|http://cls.provideo.es/algecirastv/livestream/master.m3u8
 :red_circle:|Canal Costa - Huelva (AN)|http://cls2.todostreaming.eu/azahara/IKbtqOuj/playlist.m3u8
@@ -86,7 +86,7 @@ Status | Canal | URL
 :green_heart:|Andorra TV - Lleida (CT)|http://194.158.80.31:443/live/web/master.m3u8
 :red_circle:|Hit TV - Madrid (MD)|http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist_w.m3u8
 :red_circle:|Intereconomia - Madrid (MD)|http://edge3.adnstream.com:81/hls/intereconomia.m3u8
-:red_circle:|Ribera TV - Valencia (VC)|http://orion.comelson.es/ribera/livestream/chunklist_w476320974.m3u8
+:green_heart:|Ribera TV - Valencia (VC)|http://orion.comelson.es/ribera/livestream/chunklist_w476320974.m3u8
 :red_circle:|Televisió Badalona|http://cdnlive.shooowit.net/badalonatvlive/smil:live.smil/playlist.m3u8
 :red_circle:|Televisió de Girona|http://tvgirona.dnssw.net:1935/live/Icontouch/playlist.m3u8
 :red_circle:|Tarragona TV|http://cdns724ste1010.shooowit.net/tac12live/amlst:live/playlist.m3u8
@@ -95,6 +95,6 @@ Status | Canal | URL
 :green_heart:|Sevilla F.C.|http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-p.m3u8
 :red_circle:|BETISTV|http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8
 :red_circle:|Nasa TV - EEUU|http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
-:red_circle:|Cordoba Internacional|http://streaming.enetres.net/69BF7C8664934222BA3F58530449B8CE021/mobile/playlist.m3u8
+:green_heart:|Cordoba Internacional|http://streaming.enetres.net/69BF7C8664934222BA3F58530449B8CE021/mobile/playlist.m3u8
 :green_heart:|HispanTV|http://107.189.40.49:1935/live/hispantv/playlist.m3u8
 :green_heart:|Russia Today Español|https://secure-streams.akamaized.net/rt-esp/index.m3u8
