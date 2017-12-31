@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 status_ok=":green_heart:"
 status_dead=":red_circle:"
