@@ -15,7 +15,7 @@ Plugin Kodi: Comprime la carpeta plugin.video.tdtiberia en un fichero zip con es
 
 ## Status Update: **$(date +"%d-%m-%y")**
 
-Status| Description
+Status| Descripción
 --- | --- |
 $status_ok|OK
 $status_dead|Link no accesible
