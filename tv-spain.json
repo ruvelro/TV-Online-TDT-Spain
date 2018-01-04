@@ -290,14 +290,14 @@
     "id": 42,
     "enabled": false,
     "name": "TVG Europa - Galicia (GA)",
-    "link_m3u8": "http://media3.crtvg.es/live/_definst_/tvge_2/playlist.m3u8",
+    "link_m3u8": "http://europa-crtvg.flumotion.com/playlist.m3u8",
     "link_logo": ""
   },
   {
     "id": 43,
     "enabled": false,
     "name": "TVG America - Galicia (GA)",
-    "link_m3u8": "http://media3.crtvg.es/live/_definst_/tvga_2/playlist.m3u8",
+    "link_m3u8": "http://america-crtvg.flumotion.com/playlist.m3u8",
     "link_logo": ""
   },
   {
