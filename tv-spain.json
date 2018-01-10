@@ -3,7 +3,7 @@
     "id": 1,
     "enabled": false,
     "name": "La 1",
-    "link_m3u8": "http://hlsackdn-gl7.rtve.es/i/hlsdvrlive_1@566874/master.m3u8",
+    "link_m3u8": "http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8",
     "link_logo": ""
   },
   {
@@ -24,14 +24,14 @@
     "id": 4,
     "enabled": false,
     "name": "Cuatro",
-    "link_m3u8": "http://www.apps4two.com/apps/tvonline/rm2access.php?o=cuatro",
+    "link_m3u8": "https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8",
     "link_logo": ""
   },
   {
     "id": 5,
     "enabled": false,
     "name": "Telecinco",
-    "link_m3u8": "http://www.apps4two.com/apps/tvonline/rm2access.php?o=telecinco",
+    "link_m3u8": "https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8",
     "link_logo": ""
   },
   {
@@ -73,14 +73,14 @@
     "id": 11,
     "enabled": false,
     "name": "Be Mad TV",
-    "link_m3u8": "http://www.apps4two.com/apps/tvonline/rm2access.php?o=bemad",
+    "link_m3u8": "https://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_1.m3u8",
     "link_logo": ""
   },
   {
     "id": 12,
     "enabled": false,
     "name": "Divinity",
-    "link_m3u8": "http://www.apps4two.com/apps/tvonline/rm2access.php?o=divinity",
+    "link_m3u8": "https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8",
     "link_logo": ""
   },
   {
@@ -94,7 +94,7 @@
     "id": 14,
     "enabled": false,
     "name": "Paramount Channel",
-    "link_m3u8": "http://paramount.live.flumotion.com/live/chunklist.m3u8",
+    "link_m3u8": "http://paramount.live.flumotion.com/live/playlist.m3u8",
     "link_logo": ""
   },
   {
@@ -115,21 +115,21 @@
     "id": 17,
     "enabled": false,
     "name": "24h",
-    "link_m3u8": "http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl8-24hlv3aomgl8/_definst_/live.m3u8",
+    "link_m3u8": "http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8",
     "link_logo": ""
   },
   {
     "id": 18,
     "enabled": false,
     "name": "Teledeporte",
-    "link_m3u8": "http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl1-tdplv3aomgl1/_definst_/live.m3u8",
+    "link_m3u8": "http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8",
     "link_logo": ""
   },
   {
     "id": 19,
     "enabled": false,
     "name": "Teledeporte HD",
-    "link_m3u8": "http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl1-tdphdlv3aomgl1/_definst_/live/stream3.m3u8",
+    "link_m3u8": "http://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@39598/master.m3u8",
     "link_logo": ""
   },
   {
@@ -157,7 +157,7 @@
     "id": 23,
     "enabled": false,
     "name": "FDF",
-    "link_m3u8": "http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/5vMGFjYjE6FW20QNvfFor1J8AiF0JAyp/cn/73742da67a5947919a8bb82035fa9224.m3u8",
+    "link_m3u8": "https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8",
     "link_logo": ""
   },
   {
@@ -178,7 +178,7 @@
     "id": 26,
     "enabled": false,
     "name": "Energy",
-    "link_m3u8": "http://www.apps4two.com/apps/tvonline/rm2access.php?o=energy",
+    "link_m3u8": "https://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_1.m3u8",
     "link_logo": ""
   },
   {
@@ -557,6 +557,13 @@
     "enabled": true,
     "name": "Russia Today Español",
     "link_m3u8": "https://secure-streams.akamaized.net/rt-esp/index.m3u8",
+    "link_logo": ""
+  },
+  {
+    "id": 508,
+    "enabled": true,
+    "name": "Boing",
+    "link_m3u8": "https://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_1.m3u8",
     "link_logo": ""
   }
 ]
