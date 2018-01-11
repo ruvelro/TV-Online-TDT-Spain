@@ -8,7 +8,7 @@ Manual: [Cómo abrir estos canales de TDT en VLC](https://www.softzone.es/2016/1
 
 Plugin Kodi: Comprime la carpeta plugin.video.tdtiberia en un fichero zip con ese mismo nombre. Sigue la guia [instalar plugin en zip](http://kodi.wiki/view/HOW-TO:Install_add-ons_from_zip_files) para instalar el plugin.
 
-## Status Update: **10-01-18**
+## Status Update: **11-01-18**
 
 Status| Descripción
 --- | --- |
@@ -18,32 +18,32 @@ Status| Descripción
 
 Status | Canal | URL 
 --- | --- | ---
-:red_circle:|La 1|http://hlsackdn-gl7.rtve.es/i/hlsdvrlive_1@566874/master.m3u8
+:red_circle:|La 1|http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 :green_heart:|La 2|http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl0-la2lv3aomgl0/_definst_/live.m3u8
 :green_heart:|Antena 3|http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
-:red_circle:|Cuatro|http://www.apps4two.com/apps/tvonline/rm2access.php?o=cuatro
-:red_circle:|Telecinco|http://www.apps4two.com/apps/tvonline/rm2access.php?o=telecinco
+:red_circle:|Cuatro|https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
+:red_circle:|Telecinco|https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
 :green_heart:|La Sexta|http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 :green_heart:|A3Series|http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 :green_heart:|Nova|http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
 :green_heart:|Neox|http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 :green_heart:|Mega|http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
-:red_circle:|Be Mad TV|http://www.apps4two.com/apps/tvonline/rm2access.php?o=bemad
-:red_circle:|Divinity|http://www.apps4two.com/apps/tvonline/rm2access.php?o=divinity
+:red_circle:|Be Mad TV|https://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_1.m3u8
+:red_circle:|Divinity|https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
 :green_heart:|Real Madrid TV|http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
-:red_circle:|Paramount Channel|http://paramount.live.flumotion.com/live/chunklist.m3u8
+:red_circle:|Paramount Channel|http://paramount.live.flumotion.com/live/playlist.m3u8
 :red_circle:|Disney Channel|http://cdnapi.kaltura.com/p/1068292/sp/106829200/playManifest/entryId/1_d8lnsqu0/format/applehttp/protocol/http/uiConfId/27176231/a.m3u8?referrer=aHR0cDovL2Rpc25leWNoYW5uZWwuZXM=&playSessionId=8134da47-6b06-6113-0fde-2079fb2dcca0
 :red_circle:|Disney Channel|https://eslivestream-lh.akamaihd.net/i/live_1@318671/master.m3u8
-:red_circle:|24h|http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl8-24hlv3aomgl8/_definst_/live.m3u8
-:red_circle:|Teledeporte|http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl1-tdplv3aomgl1/_definst_/live.m3u8
-:red_circle:|Teledeporte HD|http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl1-tdphdlv3aomgl1/_definst_/live/stream3.m3u8
+:red_circle:|24h|http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
+:red_circle:|Teledeporte|http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8
+:red_circle:|Teledeporte HD|http://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@39598/master.m3u8
 :green_heart:|TVE 60 aniversario|http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl0-irtve24lv3aomgl0/_definst_/live.m3u8
 :green_heart:|13TV|http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
 :red_circle:|DMax|http://zba2-2-hls5-live.zahs.tv/ES_veo/master.m3u8?z32=OVZWK4S7NFSD2MJRGYZTCNJZHETG22LOOJQXIZJ5GATG2YLYOJQXIZJ5GE2TAMBGONUWOPJUMM4DAYRTGRQTSYJZGA4TEOLDMMYWMNRRGU4TEYTCGQ4TGNTEG4TGG43JMQ6TCNBZG5CTKNKFGBBUGRRTGQZTQLJTHE3TQRBYHA4UERBXIU3DQNCBEZUW42LUNFQWY4TBORST2MA
-:red_circle:|FDF|http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/5vMGFjYjE6FW20QNvfFor1J8AiF0JAyp/cn/73742da67a5947919a8bb82035fa9224.m3u8
+:red_circle:|FDF|https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8
 :red_circle:|Ten|http://cdn.sitenow.me/live/ten_azj987s/chunklist.m3u8
 :green_heart:|DKiss|http://kisstvnacional.es.flash.glb.canalweb.com/kisstvnacional.es/mp4:9KISSTV.mp4/playlist.m3u8
-:red_circle:|Energy|http://www.apps4two.com/apps/tvonline/rm2access.php?o=energy
+:red_circle:|Energy|https://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_1.m3u8
 :red_circle:|C. Sur Andalucia - Andalucia (AN)|http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
 :red_circle:|ATV - Andalucia (AN)|http://195.55.74.205/rtva/champions-hls/stream.m3u8
 :green_heart:|Aragon TV - Aragon (AR)|http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
@@ -98,3 +98,4 @@ Status | Canal | URL
 :red_circle:|Cordoba Internacional|http://streaming.enetres.net/69BF7C8664934222BA3F58530449B8CE021/mobile/playlist.m3u8
 :green_heart:|HispanTV|http://107.189.40.49:1935/live/hispantv/playlist.m3u8
 :green_heart:|Russia Today Español|https://secure-streams.akamaized.net/rt-esp/index.m3u8
+:red_circle:|Boing|https://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_1.m3u8
