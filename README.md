@@ -8,7 +8,7 @@ Manual: [Cómo abrir estos canales de TDT en VLC](https://www.softzone.es/2016/1
 
 Plugin Kodi: Comprime la carpeta plugin.video.tdtiberia en un fichero zip con ese mismo nombre. Sigue la guia [instalar plugin en zip](http://kodi.wiki/view/HOW-TO:Install_add-ons_from_zip_files) para instalar el plugin.
 
-## Status Update: **13-01-18**
+## Status Update: **14-01-18**
 
 Status| Descripción
 --- | --- |
@@ -42,7 +42,7 @@ Status | Canal | URL
 :red_circle:|DMax|http://zba2-2-hls5-live.zahs.tv/ES_veo/master.m3u8?z32=OVZWK4S7NFSD2MJRGYZTCNJZHETG22LOOJQXIZJ5GATG2YLYOJQXIZJ5GE2TAMBGONUWOPJUMM4DAYRTGRQTSYJZGA4TEOLDMMYWMNRRGU4TEYTCGQ4TGNTEG4TGG43JMQ6TCNBZG5CTKNKFGBBUGRRTGQZTQLJTHE3TQRBYHA4UERBXIU3DQNCBEZUW42LUNFQWY4TBORST2MA
 :red_circle:|FDF|https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8
 :red_circle:|Ten|http://cdn.sitenow.me/live/ten_azj987s/chunklist.m3u8
-:green_heart:|DKiss|http://kisstvnacional.es.flash.glb.canalweb.com/kisstvnacional.es/mp4:9KISSTV.mp4/playlist.m3u8
+:red_circle:|DKiss|http://kisstvnacional.es.flash.glb.canalweb.com/kisstvnacional.es/mp4:9KISSTV.mp4/playlist.m3u8
 :red_circle:|Energy|https://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_1.m3u8
 :red_circle:|C. Sur Andalucia - Andalucia (AN)|http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
 :red_circle:|ATV - Andalucia (AN)|http://195.55.74.205/rtva/champions-hls/stream.m3u8

@@ -169,7 +169,7 @@
   },
   {
     "id": 25,
-    "enabled": true,
+    "enabled": false,
     "name": "DKiss",
     "link_m3u8": "http://kisstvnacional.es.flash.glb.canalweb.com/kisstvnacional.es/mp4:9KISSTV.mp4/playlist.m3u8",
     "link_logo": ""
