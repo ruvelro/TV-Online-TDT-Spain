@@ -141,7 +141,7 @@
   },
   {
     "id": 21,
-    "enabled": true,
+    "enabled": false,
     "name": "13TV",
     "link_m3u8": "http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8",
     "link_logo": ""
