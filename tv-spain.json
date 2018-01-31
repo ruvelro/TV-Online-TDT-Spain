@@ -540,7 +540,7 @@
   },
   {
     "id": 78,
-    "enabled": false,
+    "enabled": true,
     "name": "Cordoba Internacional",
     "link_m3u8": "http://streaming.enetres.net/69BF7C8664934222BA3F58530449B8CE021/mobile/playlist.m3u8",
     "link_logo": ""
