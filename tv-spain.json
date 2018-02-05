@@ -15,7 +15,7 @@
   },
   {
     "id": 3,
-    "enabled": true,
+    "enabled": false,
     "name": "Antena 3",
     "link_m3u8": "http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8",
     "link_logo": ""
@@ -218,7 +218,7 @@
   },
   {
     "id": 32,
-    "enabled": true,
+    "enabled": false,
     "name": "RTVC net - Canarias (CN)",
     "link_m3u8": "http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8",
     "link_logo": ""
@@ -540,7 +540,7 @@
   },
   {
     "id": 78,
-    "enabled": true,
+    "enabled": false,
     "name": "Cordoba Internacional",
     "link_m3u8": "http://streaming.enetres.net/69BF7C8664934222BA3F58530449B8CE021/mobile/playlist.m3u8",
     "link_logo": ""
