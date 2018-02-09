@@ -11,7 +11,6 @@ Plugin Kodi: Comprime la carpeta plugin.video.tdtiberia en un fichero zip con es
 ## Status Update: **09-02-18**
 
 Status| Descripción
---- | --- |
 :green_heart:|OK
 :red_circle:|Link no accesible
 
