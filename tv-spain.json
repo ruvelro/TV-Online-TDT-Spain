@@ -477,7 +477,7 @@
   },
   {
     "id": 69,
-    "enabled": true,
+    "enabled": false,
     "name": "Ribera TV - Valencia (VC)",
     "link_m3u8": "http://orion.comelson.es/ribera/livestream/chunklist_w476320974.m3u8",
     "link_logo": ""
