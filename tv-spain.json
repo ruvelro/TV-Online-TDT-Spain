@@ -10,7 +10,7 @@
     "id": 2,
     "enabled": true,
     "name": "La 2",
-    "link_m3u8": "http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl0-la2lv3aomgl0/_definst_/live.m3u8",
+    "link_m3u8": "http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8",
     "link_logo": ""
   },
   {
