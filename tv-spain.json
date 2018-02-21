@@ -379,7 +379,7 @@
   },
   {
     "id": 55,
-    "enabled": true,
+    "enabled": false,
     "name": "Ceuta TV - Ceuta (CE)",
     "link_m3u8": "http://cls.todostreaming.eu/anguloce/livestream/chunklist.m3u8",
     "link_logo": ""
@@ -414,7 +414,7 @@
   },
   {
     "id": 60,
-    "enabled": false,
+    "enabled": true,
     "name": "TV Ibiza-Formentera - Baleares(IB)",
     "link_m3u8": "http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8",
     "link_logo": ""
@@ -477,7 +477,7 @@
   },
   {
     "id": 69,
-    "enabled": true,
+    "enabled": false,
     "name": "Ribera TV - Valencia (VC)",
     "link_m3u8": "http://orion.comelson.es/ribera/livestream/chunklist_w476320974.m3u8",
     "link_logo": ""
