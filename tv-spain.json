@@ -225,7 +225,7 @@
   },
   {
     "id": 33,
-    "enabled": true,
+    "enabled": false,
     "name": "Popular TV - Cantabria (CB)",
     "link_m3u8": "http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8",
     "link_logo": ""
@@ -330,7 +330,7 @@
   },
   {
     "id": 48,
-    "enabled": true,
+    "enabled": false,
     "name": "Canal Parlamento - Madrid (MD)",
     "link_m3u8": "http://congresodirectomobile.edgesuite.net/live/live6.stream/manifest.m3u8?DVR&m3u8",
     "link_logo": ""
@@ -428,7 +428,7 @@
   },
   {
     "id": 62,
-    "enabled": true,
+    "enabled": false,
     "name": "Popular TV - Cantabria (CB)",
     "link_m3u8": "http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8",
     "link_logo": ""
