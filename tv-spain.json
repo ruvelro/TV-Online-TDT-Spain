@@ -225,7 +225,7 @@
   },
   {
     "id": 33,
-    "enabled": false,
+    "enabled": true,
     "name": "Popular TV - Cantabria (CB)",
     "link_m3u8": "http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8",
     "link_logo": ""
@@ -428,7 +428,7 @@
   },
   {
     "id": 62,
-    "enabled": false,
+    "enabled": true,
     "name": "Popular TV - Cantabria (CB)",
     "link_m3u8": "http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8",
     "link_logo": ""
