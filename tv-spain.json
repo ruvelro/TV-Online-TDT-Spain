@@ -8,7 +8,7 @@
   },
   {
     "id": 2,
-    "enabled": true,
+    "enabled": false,
     "name": "La 2",
     "link_m3u8": "http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8",
     "link_logo": ""
@@ -288,7 +288,7 @@
   },
   {
     "id": 42,
-    "enabled": true,
+    "enabled": false,
     "name": "TVG Europa - Galicia (GA)",
     "link_m3u8": "http://europa-crtvg.flumotion.com/playlist.m3u8",
     "link_logo": ""
@@ -379,7 +379,7 @@
   },
   {
     "id": 55,
-    "enabled": true,
+    "enabled": false,
     "name": "Ceuta TV - Ceuta (CE)",
     "link_m3u8": "http://cls.todostreaming.eu/anguloce/livestream/chunklist.m3u8",
     "link_logo": ""
