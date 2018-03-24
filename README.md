@@ -11,7 +11,7 @@ Plugin Kodi: Comprime la carpeta plugin.video.tdtiberia en un fichero zip con es
 [TDTSpain2VLC] (https://github.com/EnforcerZhukov/TDTSpain2VLC) :
 Script Python para descargar el listado de canales TDT por streaming de TV-Online-TDT-Spain y convertirlo a una playlist XSPF para VLC
 
-## Status Update: **23-03-18**
+## Status Update: **24-03-18**
 
 Status| Descripción
 --- | --- |
@@ -22,7 +22,7 @@ Status| Descripción
 Status | Canal | URL 
 --- | --- | ---
 :red_circle:|La 1|http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
-:red_circle:|La 2|http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8
+:green_heart:|La 2|http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8
 :green_heart:|Antena 3|http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 :red_circle:|Cuatro|https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
 :red_circle:|Cuatro HD|http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream2/streamPlaylist.m3u8
@@ -64,8 +64,8 @@ Status | Canal | URL
 :green_heart:|C33 - Cataluña (CT)|http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8
 :green_heart:|8TV - Cataluña (CT)|http://iphone.radiocat.net:1935/livereflector/8aldia.stream/playlist.m3u8
 :green_heart:|C. Extremadura - Extramadura (EX)|http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
-:red_circle:|TVG Europa - Galicia (GA)|http://europa-crtvg.flumotion.com/playlist.m3u8
-:red_circle:|TVG America - Galicia (GA)|http://america-crtvg.flumotion.com/playlist.m3u8
+:green_heart:|TVG Europa - Galicia (GA)|http://europa-crtvg.flumotion.com/playlist.m3u8
+:green_heart:|TVG America - Galicia (GA)|http://america-crtvg.flumotion.com/playlist.m3u8
 :red_circle:|7 RM - Murcia (MC)|http://hls0.80670-live0.dna.qbrick.com/80670-live0/murciatv/playlist.m3u8
 :green_heart:|Telemadrid - Madrid (MD)|http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live.m3u8
 :red_circle:|La Otra - Madrid (MD)|http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live/stream1.m3u8
