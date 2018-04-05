@@ -99,7 +99,7 @@
   },
   {
     "id": 13,
-    "enabled": true,
+    "enabled": false,
     "name": "Real Madrid TV",
     "link_m3u8": "http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8",
     "link_logo": ""
@@ -351,7 +351,7 @@
   },
   {
     "id": 49,
-    "enabled": false,
+    "enabled": true,
     "name": "Navarra TV - Navarra (NC)",
     "link_m3u8": "http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8",
     "link_logo": ""
@@ -393,7 +393,7 @@
   },
   {
     "id": 55,
-    "enabled": true,
+    "enabled": false,
     "name": "Ceuta TV - Ceuta (CE)",
     "link_m3u8": "http://cls.todostreaming.eu/anguloce/livestream/chunklist.m3u8",
     "link_logo": ""
