@@ -99,7 +99,7 @@
   },
   {
     "id": 13,
-    "enabled": false,
+    "enabled": true,
     "name": "Real Madrid TV",
     "link_m3u8": "http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8",
     "link_logo": ""
@@ -393,7 +393,7 @@
   },
   {
     "id": 55,
-    "enabled": false,
+    "enabled": true,
     "name": "Ceuta TV - Ceuta (CE)",
     "link_m3u8": "http://cls.todostreaming.eu/anguloce/livestream/chunklist.m3u8",
     "link_logo": ""
@@ -554,7 +554,7 @@
   },
   {
     "id": 78,
-    "enabled": true,
+    "enabled": false,
     "name": "Cordoba Internacional",
     "link_m3u8": "http://streaming.enetres.net/69BF7C8664934222BA3F58530449B8CE021/mobile/playlist.m3u8",
     "link_logo": ""
