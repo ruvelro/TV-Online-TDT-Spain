@@ -99,7 +99,7 @@
   },
   {
     "id": 13,
-    "enabled": false,
+    "enabled": true,
     "name": "Real Madrid TV",
     "link_m3u8": "http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8",
     "link_logo": ""
@@ -358,7 +358,7 @@
   },
   {
     "id": 50,
-    "enabled": true,
+    "enabled": false,
     "name": "Vaughan TV - Navarra (NC)",
     "link_m3u8": "http://vaughantv.streaming-pro.com:1935/live/vaughantv/playlist.m3u8",
     "link_logo": ""
@@ -379,7 +379,7 @@
   },
   {
     "id": 53,
-    "enabled": false,
+    "enabled": true,
     "name": "Mediterraneo TV - C.Valenciana (VC)",
     "link_m3u8": "http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/mobile/playlist.m3u8?idLive=021&referer=aHR0cDovL3RlbGVhbWUuY29tL3R2bWVkaXRlcnJhbmVvZW5kaXJlY3RvLw==&zz=m3u8",
     "link_logo": ""
@@ -428,7 +428,7 @@
   },
   {
     "id": 60,
-    "enabled": false,
+    "enabled": true,
     "name": "TV Ibiza-Formentera - Baleares(IB)",
     "link_m3u8": "http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8",
     "link_logo": ""
