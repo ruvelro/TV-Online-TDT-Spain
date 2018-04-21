@@ -211,14 +211,14 @@
   },
   {
     "id": 29,
-    "enabled": false,
+    "enabled": true,
     "name": "Aragon TV - Aragon (AR)",
     "link_m3u8": "http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8",
     "link_logo": ""
   },
   {
     "id": 30,
-    "enabled": false,
+    "enabled": true,
     "name": "TPA - Asturias (AS)",
     "link_m3u8": "http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8",
     "link_logo": ""
@@ -295,21 +295,21 @@
   },
   {
     "id": 41,
-    "enabled": false,
+    "enabled": true,
     "name": "C. Extremadura - Extramadura (EX)",
     "link_m3u8": "http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8",
     "link_logo": ""
   },
   {
     "id": 42,
-    "enabled": false,
+    "enabled": true,
     "name": "TVG Europa - Galicia (GA)",
     "link_m3u8": "http://europa-crtvg.flumotion.com/playlist.m3u8",
     "link_logo": ""
   },
   {
     "id": 43,
-    "enabled": false,
+    "enabled": true,
     "name": "TVG America - Galicia (GA)",
     "link_m3u8": "http://america-crtvg.flumotion.com/playlist.m3u8",
     "link_logo": ""

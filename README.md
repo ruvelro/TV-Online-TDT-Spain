@@ -11,7 +11,7 @@ Plugin Kodi: Comprime la carpeta plugin.video.tdtiberia en un fichero zip con es
 [TDTSpain2VLC] (https://github.com/EnforcerZhukov/TDTSpain2VLC) :
 Script Python para descargar el listado de canales TDT por streaming de TV-Online-TDT-Spain y convertirlo a una playlist XSPF para VLC
 
-## Status Update: **20-04-18**
+## Status Update: **21-04-18**
 
 Status| Descripción
 --- | --- |
@@ -51,8 +51,8 @@ Status | Canal | URL
 :red_circle:|Energy|https://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_1.m3u8
 :red_circle:|C. Sur Andalucia - Andalucia (AN)|http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
 :red_circle:|ATV - Andalucia (AN)|http://195.55.74.205/rtva/champions-hls/stream.m3u8
-:red_circle:|Aragon TV - Aragon (AR)|http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
-:red_circle:|TPA - Asturias (AS)|http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+:green_heart:|Aragon TV - Aragon (AR)|http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
+:green_heart:|TPA - Asturias (AS)|http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
 :green_heart:|IB3 - Baleares (IB)|http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_3.m3u8
 :green_heart:|RTVC net - Canarias (CN)|http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8
 :green_heart:|Popular TV - Cantabria (CB)|http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8
@@ -63,9 +63,9 @@ Status | Canal | URL
 :green_heart:|324 - Cataluña (CT)|http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
 :green_heart:|C33 - Cataluña (CT)|http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8
 :green_heart:|8TV - Cataluña (CT)|http://iphone.radiocat.net:1935/livereflector/8aldia.stream/playlist.m3u8
-:red_circle:|C. Extremadura - Extramadura (EX)|http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
-:red_circle:|TVG Europa - Galicia (GA)|http://europa-crtvg.flumotion.com/playlist.m3u8
-:red_circle:|TVG America - Galicia (GA)|http://america-crtvg.flumotion.com/playlist.m3u8
+:green_heart:|C. Extremadura - Extramadura (EX)|http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
+:green_heart:|TVG Europa - Galicia (GA)|http://europa-crtvg.flumotion.com/playlist.m3u8
+:green_heart:|TVG America - Galicia (GA)|http://america-crtvg.flumotion.com/playlist.m3u8
 :red_circle:|7 RM - Murcia (MC)|http://hls0.80670-live0.dna.qbrick.com/80670-live0/murciatv/playlist.m3u8
 :green_heart:|Telemadrid - Madrid (MD)|http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live.m3u8
 :red_circle:|La Otra - Madrid (MD)|http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live/stream1.m3u8
