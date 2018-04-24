@@ -554,14 +554,14 @@
   },
   {
     "id": 78,
-    "enabled": true,
+    "enabled": false,
     "name": "Cordoba Internacional",
     "link_m3u8": "http://streaming.enetres.net/69BF7C8664934222BA3F58530449B8CE021/mobile/playlist.m3u8",
     "link_logo": ""
   },
   {
     "id": 79,
-    "enabled": false,
+    "enabled": true,
     "name": "HispanTV",
     "link_m3u8": "http://107.189.40.49:1935/live/hispantv/playlist.m3u8",
     "link_logo": ""
