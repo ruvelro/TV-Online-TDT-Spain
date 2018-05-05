@@ -16,8 +16,8 @@
   {
     "id": 3,
     "enabled": true,
-    "name": "Antena 3",
-    "link_m3u8": "http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8",
+    "name": "Antena 3 HD",
+    "link_m3u8": "https://atresplayerp-i.akamaized.net/antena3mpp/bitrate_3.m3u8",
     "link_logo": ""
   },
   {
@@ -51,36 +51,36 @@
   {
     "id": 6,
     "enabled": true,
-    "name": "La Sexta",
-    "link_m3u8": "http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8",
+    "name": "La Sexta HD",
+    "link_m3u8": "https://atresplayerp-i.akamaized.net/lasextampp/bitrate_3.m3u8",
     "link_logo": ""
   },
   {
     "id": 7,
     "enabled": true,
     "name": "A3Series",
-    "link_m3u8": "http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8",
+    "link_m3u8": "https://atresplayers-i.akamaized.net/geoa3seriesmpp/bitrate_3.m3u8",
     "link_logo": ""
   },
   {
     "id": 8,
     "enabled": true,
     "name": "Nova",
-    "link_m3u8": "http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8",
+    "link_m3u8": "https://atresplayers-i.akamaized.net/geonovampp/bitrate_3.m3u8",
     "link_logo": ""
   },
   {
     "id": 9,
     "enabled": true,
     "name": "Neox",
-    "link_m3u8": "http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8",
+    "link_m3u8": "https://atresplayers-i.akamaized.net/geoneoxmpp/bitrate_3.m3u8",
     "link_logo": ""
   },
   {
     "id": 10,
     "enabled": true,
     "name": "Mega",
-    "link_m3u8": "http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8",
+    "link_m3u8": "https://atresplayers-i.akamaized.net/geomegampp/bitrate_3.m3u8",
     "link_logo": ""
   },
   {
