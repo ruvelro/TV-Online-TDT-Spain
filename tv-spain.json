@@ -358,7 +358,7 @@
   },
   {
     "id": 50,
-    "enabled": true,
+    "enabled": false,
     "name": "Vaughan TV - Navarra (NC)",
     "link_m3u8": "http://vaughantv.streaming-pro.com:1935/live/vaughantv/playlist.m3u8",
     "link_logo": ""
