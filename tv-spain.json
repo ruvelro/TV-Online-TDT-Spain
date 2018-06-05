@@ -309,7 +309,7 @@
   },
   {
     "id": 43,
-    "enabled": true,
+    "enabled": false,
     "name": "TVG America - Galicia (GA)",
     "link_m3u8": "http://america-crtvg.flumotion.com/playlist.m3u8",
     "link_logo": ""
@@ -386,7 +386,7 @@
   },
   {
     "id": 54,
-    "enabled": true,
+    "enabled": false,
     "name": "RTV Ceuta - Ceuta (CE)",
     "link_m3u8": "http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8",
     "link_logo": ""
@@ -456,7 +456,7 @@
   },
   {
     "id": 64,
-    "enabled": false,
+    "enabled": true,
     "name": "BTV/Betevé - Barcerlona (CT)",
     "link_m3u8": "http://api-cdn.overon.es/SmilLive/getLiveIOS/playlist.m3u8?stream=btv_stream01",
     "link_logo": ""
