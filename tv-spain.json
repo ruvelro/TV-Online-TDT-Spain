@@ -239,7 +239,7 @@
   },
   {
     "id": 33,
-    "enabled": true,
+    "enabled": false,
     "name": "Popular TV - Cantabria (CB)",
     "link_m3u8": "http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8",
     "link_logo": ""
@@ -407,7 +407,7 @@
   },
   {
     "id": 57,
-    "enabled": false,
+    "enabled": true,
     "name": "Onda Algeciras TV - Cádiz (AN)",
     "link_m3u8": "http://cls.provideo.es/algecirastv/livestream/master.m3u8",
     "link_logo": ""
@@ -442,7 +442,7 @@
   },
   {
     "id": 62,
-    "enabled": true,
+    "enabled": false,
     "name": "Popular TV - Cantabria (CB)",
     "link_m3u8": "http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8",
     "link_logo": ""
