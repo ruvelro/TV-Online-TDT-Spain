@@ -372,7 +372,7 @@
   },
   {
     "id": 52,
-    "enabled": true,
+    "enabled": false,
     "name": "TVR 10 - La Rioja (RI)",
     "link_m3u8": "http://teledifusion.tv:1935/rioja/rioja/playlist.m3u8",
     "link_logo": ""
@@ -463,7 +463,7 @@
   },
   {
     "id": 65,
-    "enabled": false,
+    "enabled": true,
     "name": "VOTV - Barcelona (CT)",
     "link_m3u8": "http://video-streaming.laxarxa.com:1935/ocasional5/directe/master.m3u8",
     "link_logo": ""
@@ -561,7 +561,7 @@
   },
   {
     "id": 79,
-    "enabled": false,
+    "enabled": true,
     "name": "HispanTV",
     "link_m3u8": "http://107.189.40.49:1935/live/hispantv/playlist.m3u8",
     "link_logo": ""
