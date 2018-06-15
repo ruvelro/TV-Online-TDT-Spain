@@ -11,7 +11,7 @@ Plugin Kodi: Comprime la carpeta plugin.video.tdtiberia en un fichero zip con es
 [TDTSpain2VLC] (https://github.com/EnforcerZhukov/TDTSpain2VLC) :
 Script Python para descargar el listado de canales TDT por streaming de TV-Online-TDT-Spain y convertirlo a una playlist XSPF para VLC
 
-## Status Update: **14-06-18**
+## Status Update: **15-06-18**
 
 Status| Descripción
 --- | --- |
@@ -28,7 +28,7 @@ Status | Canal | URL
 :red_circle:|Cuatro HD|http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream2/streamPlaylist.m3u8
 :red_circle:|Telecinco|https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
 :red_circle:|Telecinco HD|http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream2/streamPlaylist.m3u8
-:green_heart:|La Sexta|http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+:red_circle:|La Sexta|http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 :green_heart:|A3Series|http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 :green_heart:|Nova|http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
 :green_heart:|Neox|http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
@@ -82,7 +82,7 @@ Status | Canal | URL
 :green_heart:|Onda Algeciras TV - Cádiz (AN)|http://cls.provideo.es/algecirastv/livestream/master.m3u8
 :red_circle:|Canal Costa - Huelva (AN)|http://cls2.todostreaming.eu/azahara/IKbtqOuj/playlist.m3u8
 :red_circle:|Huesca TV - Huesca (AR)|http://teledifusion.tv:1935/dia/dia/playlist.m3u8
-:red_circle:|TV Ibiza-Formentera - Baleares(IB)|http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8
+:green_heart:|TV Ibiza-Formentera - Baleares(IB)|http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8
 :red_circle:|Tindaya TV - Las Palmas G.C. (CN)|http://188.165.135.22/tindayatv/livestream/playlist.m3u8
 :red_circle:|Popular TV - Cantabria (CB)|http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8
 :red_circle:|Diocesano TV - Toledo (CM)|http://178.32.53.254/rtvd/livestream/playlist.m3u8
