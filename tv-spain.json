@@ -456,7 +456,7 @@
   },
   {
     "id": 64,
-    "enabled": true,
+    "enabled": false,
     "name": "BTV/Betevé - Barcerlona (CT)",
     "link_m3u8": "http://api-cdn.overon.es/SmilLive/getLiveIOS/playlist.m3u8?stream=btv_stream01",
     "link_logo": ""
