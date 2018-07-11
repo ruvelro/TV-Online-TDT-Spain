@@ -11,7 +11,7 @@ Plugin Kodi: Comprime la carpeta plugin.video.tdtiberia en un fichero zip con es
 [TDTSpain2VLC] (https://github.com/EnforcerZhukov/TDTSpain2VLC) :
 Script Python para descargar el listado de canales TDT por streaming de TV-Online-TDT-Spain y convertirlo a una playlist XSPF para VLC
 
-## Status Update: **10-07-18**
+## Status Update: **11-07-18**
 
 Status| Descripción
 --- | --- |
@@ -91,7 +91,7 @@ Status | Canal | URL
 :green_heart:|Andorra TV - Lleida (CT)|http://194.158.80.31:443/live/web/master.m3u8
 :red_circle:|Hit TV - Madrid (MD)|http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist_w.m3u8
 :red_circle:|Intereconomia - Madrid (MD)|http://edge3.adnstream.com:81/hls/intereconomia.m3u8
-:green_heart:|Ribera TV - Valencia (VC)|http://orion.comelson.es/ribera/livestream/chunklist_w476320974.m3u8
+:red_circle:|Ribera TV - Valencia (VC)|http://orion.comelson.es/ribera/livestream/chunklist_w476320974.m3u8
 :red_circle:|Televisió Badalona|http://cdnlive.shooowit.net/badalonatvlive/smil:live.smil/playlist.m3u8
 :red_circle:|Televisió de Girona|http://tvgirona.dnssw.net:1935/live/Icontouch/playlist.m3u8
 :red_circle:|Tarragona TV|http://cdns724ste1010.shooowit.net/tac12live/amlst:live/playlist.m3u8
