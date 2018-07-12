@@ -15,7 +15,7 @@
   },
   {
     "id": 3,
-    "enabled": true,
+    "enabled": false,
     "name": "Antena 3",
     "link_m3u8": "http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8",
     "link_logo": ""
@@ -155,7 +155,7 @@
   },
   {
     "id": 21,
-    "enabled": true,
+    "enabled": false,
     "name": "13TV",
     "link_m3u8": "http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8",
     "link_logo": ""
@@ -365,7 +365,7 @@
   },
   {
     "id": 51,
-    "enabled": true,
+    "enabled": false,
     "name": "Eitb - P.Vasco (PV)",
     "link_m3u8": "http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8",
     "link_logo": ""
@@ -386,7 +386,7 @@
   },
   {
     "id": 54,
-    "enabled": true,
+    "enabled": false,
     "name": "RTV Ceuta - Ceuta (CE)",
     "link_m3u8": "http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8",
     "link_logo": ""
@@ -491,7 +491,7 @@
   },
   {
     "id": 69,
-    "enabled": false,
+    "enabled": true,
     "name": "Ribera TV - Valencia (VC)",
     "link_m3u8": "http://orion.comelson.es/ribera/livestream/chunklist_w476320974.m3u8",
     "link_logo": ""
