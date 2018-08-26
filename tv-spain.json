@@ -295,7 +295,7 @@
   },
   {
     "id": 41,
-    "enabled": false,
+    "enabled": true,
     "name": "C. Extremadura - Extramadura (EX)",
     "link_m3u8": "http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8",
     "link_logo": ""
