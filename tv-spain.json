@@ -386,7 +386,7 @@
   },
   {
     "id": 54,
-    "enabled": false,
+    "enabled": true,
     "name": "RTV Ceuta - Ceuta (CE)",
     "link_m3u8": "http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8",
     "link_logo": ""
@@ -407,7 +407,7 @@
   },
   {
     "id": 57,
-    "enabled": false,
+    "enabled": true,
     "name": "Onda Algeciras TV - Cádiz (AN)",
     "link_m3u8": "http://cls.provideo.es/algecirastv/livestream/master.m3u8",
     "link_logo": ""
