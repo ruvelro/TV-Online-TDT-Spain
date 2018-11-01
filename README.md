@@ -11,7 +11,7 @@ Plugin Kodi: Comprime la carpeta plugin.video.tdtiberia en un fichero zip con es
 [TDTSpain2VLC] (https://github.com/EnforcerZhukov/TDTSpain2VLC) :
 Script Python para descargar el listado de canales TDT por streaming de TV-Online-TDT-Spain y convertirlo a una playlist XSPF para VLC
 
-## Status Update: **31-10-18**
+## Status Update: **01-11-18**
 
 Status| Descripción
 --- | --- |
@@ -54,7 +54,7 @@ Status | Canal | URL
 :green_heart:|Aragon TV - Aragon (AR)|http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
 :green_heart:|TPA - Asturias (AS)|http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
 :green_heart:|IB3 - Baleares (IB)|http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_3.m3u8
-:green_heart:|RTVC net - Canarias (CN)|http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8
+:red_circle:|RTVC net - Canarias (CN)|http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8
 :red_circle:|Popular TV - Cantabria (CB)|http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8
 :red_circle:|La Regional (WEB) - C. Mancha (CM)|http://www.movipbox.com/LAREGIONAL/guia/inicio/demo_1/print_html5_moviles.php
 :red_circle:|CMM - C. Mancha (CM)|http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/main.m3u8
@@ -79,7 +79,7 @@ Status | Canal | URL
 :green_heart:|RTV Ceuta - Ceuta (CE)|http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
 :red_circle:|Ceuta TV - Ceuta (CE)|http://cls.todostreaming.eu/anguloce/livestream/chunklist.m3u8
 :red_circle:|TV Melilla - Melilla (ML)|http://melillatv.hls.flumotion.com/melilla/live-hls-2/playlist.m3u8
-:green_heart:|Onda Algeciras TV - Cádiz (AN)|http://cls.provideo.es/algecirastv/livestream/master.m3u8
+:red_circle:|Onda Algeciras TV - Cádiz (AN)|http://cls.provideo.es/algecirastv/livestream/master.m3u8
 :red_circle:|Canal Costa - Huelva (AN)|http://cls2.todostreaming.eu/azahara/IKbtqOuj/playlist.m3u8
 :red_circle:|Huesca TV - Huesca (AR)|http://teledifusion.tv:1935/dia/dia/playlist.m3u8
 :green_heart:|TV Ibiza-Formentera - Baleares(IB)|http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8
