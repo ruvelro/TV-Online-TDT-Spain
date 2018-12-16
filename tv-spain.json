@@ -232,7 +232,7 @@
   },
   {
     "id": 32,
-    "enabled": false,
+    "enabled": true,
     "name": "RTVC net - Canarias (CN)",
     "link_m3u8": "http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8",
     "link_logo": ""
@@ -372,7 +372,7 @@
   },
   {
     "id": 52,
-    "enabled": false,
+    "enabled": true,
     "name": "TVR 10 - La Rioja (RI)",
     "link_m3u8": "http://teledifusion.tv:1935/rioja/rioja/playlist.m3u8",
     "link_logo": ""
@@ -386,7 +386,7 @@
   },
   {
     "id": 54,
-    "enabled": true,
+    "enabled": false,
     "name": "RTV Ceuta - Ceuta (CE)",
     "link_m3u8": "http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8",
     "link_logo": ""
