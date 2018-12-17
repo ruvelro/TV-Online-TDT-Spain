@@ -218,7 +218,7 @@
   },
   {
     "id": 30,
-    "enabled": true,
+    "enabled": false,
     "name": "TPA - Asturias (AS)",
     "link_m3u8": "http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8",
     "link_logo": ""
@@ -232,7 +232,7 @@
   },
   {
     "id": 32,
-    "enabled": true,
+    "enabled": false,
     "name": "RTVC net - Canarias (CN)",
     "link_m3u8": "http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8",
     "link_logo": ""
@@ -386,7 +386,7 @@
   },
   {
     "id": 54,
-    "enabled": false,
+    "enabled": true,
     "name": "RTV Ceuta - Ceuta (CE)",
     "link_m3u8": "http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8",
     "link_logo": ""
