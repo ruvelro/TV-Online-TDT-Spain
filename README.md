@@ -11,7 +11,7 @@ Plugin Kodi: Comprime la carpeta plugin.video.tdtiberia en un fichero zip con es
 [TDTSpain2VLC] (https://github.com/EnforcerZhukov/TDTSpain2VLC) :
 Script Python para descargar el listado de canales TDT por streaming de TV-Online-TDT-Spain y convertirlo a una playlist XSPF para VLC
 
-## Status Update: **08-01-19**
+## Status Update: **09-01-19**
 
 Status| Descripción
 --- | --- |
@@ -23,7 +23,7 @@ Status | Canal | URL
 --- | --- | ---
 :red_circle:|La 1|http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 :red_circle:|La 2|http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8
-:red_circle:|Antena 3|http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+:green_heart:|Antena 3|http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 :red_circle:|Cuatro|https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
 :red_circle:|Cuatro HD|http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream2/streamPlaylist.m3u8
 :red_circle:|Telecinco|https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
@@ -31,11 +31,11 @@ Status | Canal | URL
 :green_heart:|La Sexta|http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 :green_heart:|A3Series|http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 :green_heart:|Nova|http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
-:red_circle:|Neox|http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+:green_heart:|Neox|http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 :green_heart:|Mega|http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
 :red_circle:|Be Mad TV|https://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_1.m3u8
 :red_circle:|Divinity|https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
-:red_circle:|Real Madrid TV|http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
+:green_heart:|Real Madrid TV|http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
 :red_circle:|Paramount Channel|http://paramount.live.flumotion.com/live/playlist.m3u8
 :red_circle:|Disney Channel|http://cdnapi.kaltura.com/p/1068292/sp/106829200/playManifest/entryId/1_d8lnsqu0/format/applehttp/protocol/http/uiConfId/27176231/a.m3u8?referrer=aHR0cDovL2Rpc25leWNoYW5uZWwuZXM=&playSessionId=8134da47-6b06-6113-0fde-2079fb2dcca0
 :red_circle:|Disney Channel|https://eslivestream-lh.akamaihd.net/i/live_1@318671/master.m3u8
@@ -64,7 +64,7 @@ Status | Canal | URL
 :green_heart:|C33 - Cataluña (CT)|http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8
 :green_heart:|8TV - Cataluña (CT)|http://iphone.radiocat.net:1935/livereflector/8aldia.stream/playlist.m3u8
 :green_heart:|C. Extremadura - Extramadura (EX)|http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
-:red_circle:|TVG Europa - Galicia (GA)|http://europa-crtvg.flumotion.com/playlist.m3u8
+:green_heart:|TVG Europa - Galicia (GA)|http://europa-crtvg.flumotion.com/playlist.m3u8
 :green_heart:|TVG America - Galicia (GA)|http://america-crtvg.flumotion.com/playlist.m3u8
 :red_circle:|7 RM - Murcia (MC)|http://hls0.80670-live0.dna.qbrick.com/80670-live0/murciatv/playlist.m3u8
 :green_heart:|Telemadrid - Madrid (MD)|http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live.m3u8
@@ -87,7 +87,7 @@ Status | Canal | URL
 :red_circle:|Popular TV - Cantabria (CB)|http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8
 :red_circle:|Diocesano TV - Toledo (CM)|http://178.32.53.254/rtvd/livestream/playlist.m3u8
 :red_circle:|BTV/Betevé - Barcerlona (CT)|http://api-cdn.overon.es/SmilLive/getLiveIOS/playlist.m3u8?stream=btv_stream01
-:red_circle:|VOTV - Barcelona (CT)|http://video-streaming.laxarxa.com:1935/ocasional5/directe/master.m3u8
+:green_heart:|VOTV - Barcelona (CT)|http://video-streaming.laxarxa.com:1935/ocasional5/directe/master.m3u8
 :green_heart:|Andorra TV - Lleida (CT)|http://194.158.80.31:443/live/web/master.m3u8
 :red_circle:|Hit TV - Madrid (MD)|http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist_w.m3u8
 :red_circle:|Intereconomia - Madrid (MD)|http://edge3.adnstream.com:81/hls/intereconomia.m3u8
