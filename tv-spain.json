@@ -232,7 +232,7 @@
   },
   {
     "id": 32,
-    "enabled": false,
+    "enabled": true,
     "name": "RTVC net - Canarias (CN)",
     "link_m3u8": "http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8",
     "link_logo": ""
@@ -372,14 +372,14 @@
   },
   {
     "id": 52,
-    "enabled": false,
+    "enabled": true,
     "name": "TVR 10 - La Rioja (RI)",
     "link_m3u8": "http://teledifusion.tv:1935/rioja/rioja/playlist.m3u8",
     "link_logo": ""
   },
   {
     "id": 53,
-    "enabled": true,
+    "enabled": false,
     "name": "Mediterraneo TV - C.Valenciana (VC)",
     "link_m3u8": "http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/mobile/playlist.m3u8?idLive=021&referer=aHR0cDovL3RlbGVhbWUuY29tL3R2bWVkaXRlcnJhbmVvZW5kaXJlY3RvLw==&zz=m3u8",
     "link_logo": ""
@@ -428,7 +428,7 @@
   },
   {
     "id": 60,
-    "enabled": false,
+    "enabled": true,
     "name": "TV Ibiza-Formentera - Baleares(IB)",
     "link_m3u8": "http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8",
     "link_logo": ""
