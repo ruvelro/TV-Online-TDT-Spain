@@ -232,7 +232,7 @@
   },
   {
     "id": 32,
-    "enabled": true,
+    "enabled": false,
     "name": "RTVC net - Canarias (CN)",
     "link_m3u8": "http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8",
     "link_logo": ""
@@ -526,7 +526,7 @@
   },
   {
     "id": 74,
-    "enabled": true,
+    "enabled": false,
     "name": "Terrassa TV",
     "link_m3u8": "http://cast.streamingconnect.tv:1935/terrassaweb/terrassaweb/playlist.m3u8",
     "link_logo": ""
