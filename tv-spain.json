@@ -15,7 +15,7 @@
   },
   {
     "id": 3,
-    "enabled": true,
+    "enabled": false,
     "name": "Antena 3",
     "link_m3u8": "http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8",
     "link_logo": ""
@@ -50,35 +50,35 @@
   },
   {
     "id": 6,
-    "enabled": true,
+    "enabled": false,
     "name": "La Sexta",
     "link_m3u8": "http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8",
     "link_logo": ""
   },
   {
     "id": 7,
-    "enabled": true,
+    "enabled": false,
     "name": "A3Series",
     "link_m3u8": "http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8",
     "link_logo": ""
   },
   {
     "id": 8,
-    "enabled": true,
+    "enabled": false,
     "name": "Nova",
     "link_m3u8": "http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8",
     "link_logo": ""
   },
   {
     "id": 9,
-    "enabled": true,
+    "enabled": false,
     "name": "Neox",
     "link_m3u8": "http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8",
     "link_logo": ""
   },
   {
     "id": 10,
-    "enabled": true,
+    "enabled": false,
     "name": "Mega",
     "link_m3u8": "http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8",
     "link_logo": ""
@@ -372,7 +372,7 @@
   },
   {
     "id": 52,
-    "enabled": false,
+    "enabled": true,
     "name": "TVR 10 - La Rioja (RI)",
     "link_m3u8": "http://teledifusion.tv:1935/rioja/rioja/playlist.m3u8",
     "link_logo": ""
@@ -428,7 +428,7 @@
   },
   {
     "id": 60,
-    "enabled": false,
+    "enabled": true,
     "name": "TV Ibiza-Formentera - Baleares(IB)",
     "link_m3u8": "http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8",
     "link_logo": ""
