@@ -8,7 +8,7 @@
   },
   {
     "id": 2,
-    "enabled": true,
+    "enabled": false,
     "name": "La 2",
     "link_m3u8": "http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8",
     "link_logo": ""
@@ -155,7 +155,7 @@
   },
   {
     "id": 21,
-    "enabled": true,
+    "enabled": false,
     "name": "13TV",
     "link_m3u8": "http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8",
     "link_logo": ""
@@ -232,7 +232,7 @@
   },
   {
     "id": 32,
-    "enabled": false,
+    "enabled": true,
     "name": "RTVC net - Canarias (CN)",
     "link_m3u8": "http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8",
     "link_logo": ""
