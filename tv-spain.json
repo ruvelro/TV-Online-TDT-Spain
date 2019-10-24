@@ -8,7 +8,7 @@
   },
   {
     "id": 2,
-    "enabled": false,
+    "enabled": true,
     "name": "La 2",
     "link_m3u8": "http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8",
     "link_logo": ""
@@ -155,7 +155,7 @@
   },
   {
     "id": 21,
-    "enabled": false,
+    "enabled": true,
     "name": "13TV",
     "link_m3u8": "http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8",
     "link_logo": ""
@@ -281,7 +281,7 @@
   },
   {
     "id": 39,
-    "enabled": true,
+    "enabled": false,
     "name": "C33 - Cataluña (CT)",
     "link_m3u8": "http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8",
     "link_logo": ""
@@ -379,7 +379,7 @@
   },
   {
     "id": 53,
-    "enabled": false,
+    "enabled": true,
     "name": "Mediterraneo TV - C.Valenciana (VC)",
     "link_m3u8": "http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/mobile/playlist.m3u8?idLive=021&referer=aHR0cDovL3RlbGVhbWUuY29tL3R2bWVkaXRlcnJhbmVvZW5kaXJlY3RvLw==&zz=m3u8",
     "link_logo": ""
