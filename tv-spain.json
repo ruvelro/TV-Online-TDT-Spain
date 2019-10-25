@@ -281,7 +281,7 @@
   },
   {
     "id": 39,
-    "enabled": false,
+    "enabled": true,
     "name": "C33 - Cataluña (CT)",
     "link_m3u8": "http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8",
     "link_logo": ""
