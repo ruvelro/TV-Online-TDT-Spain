@@ -351,7 +351,7 @@
   },
   {
     "id": 49,
-    "enabled": true,
+    "enabled": false,
     "name": "Navarra TV - Navarra (NC)",
     "link_m3u8": "http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8",
     "link_logo": ""
@@ -526,7 +526,7 @@
   },
   {
     "id": 74,
-    "enabled": true,
+    "enabled": false,
     "name": "Terrassa TV",
     "link_m3u8": "http://cast.streamingconnect.tv:1935/terrassaweb/terrassaweb/playlist.m3u8",
     "link_logo": ""
