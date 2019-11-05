@@ -8,7 +8,7 @@
   },
   {
     "id": 2,
-    "enabled": true,
+    "enabled": false,
     "name": "La 2",
     "link_m3u8": "http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8",
     "link_logo": ""
@@ -288,7 +288,7 @@
   },
   {
     "id": 40,
-    "enabled": true,
+    "enabled": false,
     "name": "8TV - Cataluña (CT)",
     "link_m3u8": "http://iphone.radiocat.net:1935/livereflector/8aldia.stream/playlist.m3u8",
     "link_logo": ""
