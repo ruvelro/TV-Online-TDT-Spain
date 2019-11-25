@@ -11,7 +11,7 @@ Plugin Kodi: Comprime la carpeta plugin.video.tdtiberia en un fichero zip con es
 [TDTSpain2VLC] (https://github.com/EnforcerZhukov/TDTSpain2VLC) :
 Script Python para descargar el listado de canales TDT por streaming de TV-Online-TDT-Spain y convertirlo a una playlist XSPF para VLC
 
-## Status Update: **24-11-19**
+## Status Update: **25-11-19**
 
 Status| Descripción
 --- | --- |
@@ -22,7 +22,7 @@ Status| Descripción
 Status | Canal | URL 
 --- | --- | ---
 :red_circle:|La 1|http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
-:green_heart:|La 2|http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8
+:red_circle:|La 2|http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8
 :red_circle:|Antena 3|http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 :red_circle:|Cuatro|https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
 :red_circle:|Cuatro HD|http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream2/streamPlaylist.m3u8
@@ -36,7 +36,7 @@ Status | Canal | URL
 :red_circle:|Be Mad TV|https://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_1.m3u8
 :red_circle:|Divinity|https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
 :green_heart:|Real Madrid TV|http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
-:red_circle:|Paramount Channel|http://paramount.live.flumotion.com/live/playlist.m3u8
+:green_heart:|Paramount Channel|http://paramount.live.flumotion.com/live/playlist.m3u8
 :red_circle:|Disney Channel|http://cdnapi.kaltura.com/p/1068292/sp/106829200/playManifest/entryId/1_d8lnsqu0/format/applehttp/protocol/http/uiConfId/27176231/a.m3u8?referrer=aHR0cDovL2Rpc25leWNoYW5uZWwuZXM=&playSessionId=8134da47-6b06-6113-0fde-2079fb2dcca0
 :red_circle:|Disney Channel|https://eslivestream-lh.akamaihd.net/i/live_1@318671/master.m3u8
 :red_circle:|24h|http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
@@ -71,7 +71,7 @@ Status | Canal | URL
 :red_circle:|La Otra - Madrid (MD)|http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live/stream1.m3u8
 :red_circle:|Libertad Digital - Madrid (MD)|http://stream-09.vty.dailymotion.com/09/dm/1/xnm032/live.isml/live.m3u8?e=1481401957&st=FfaF_FK5REWIoSlanFC8kQ
 :red_circle:|Canal Parlamento - Madrid (MD)|http://congresodirectomobile.edgesuite.net/live/live6.stream/manifest.m3u8?DVR&m3u8
-:green_heart:|Navarra TV - Navarra (NC)|http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
+:red_circle:|Navarra TV - Navarra (NC)|http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
 :red_circle:|Vaughan TV - Navarra (NC)|http://vaughantv.streaming-pro.com:1935/live/vaughantv/playlist.m3u8
 :green_heart:|Eitb - P.Vasco (PV)|http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 :red_circle:|TVR 10 - La Rioja (RI)|http://teledifusion.tv:1935/rioja/rioja/playlist.m3u8
