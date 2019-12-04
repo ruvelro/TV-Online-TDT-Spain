@@ -351,7 +351,7 @@
   },
   {
     "id": 49,
-    "enabled": false,
+    "enabled": true,
     "name": "Navarra TV - Navarra (NC)",
     "link_m3u8": "http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8",
     "link_logo": ""
