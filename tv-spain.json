@@ -106,7 +106,7 @@
   },
   {
     "id": 14,
-    "enabled": false,
+    "enabled": true,
     "name": "Paramount Channel",
     "link_m3u8": "http://paramount.live.flumotion.com/live/playlist.m3u8",
     "link_logo": ""
