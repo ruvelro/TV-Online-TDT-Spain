@@ -8,7 +8,7 @@
   },
   {
     "id": 2,
-    "enabled": false,
+    "enabled": true,
     "name": "La 2",
     "link_m3u8": "http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8",
     "link_logo": ""
@@ -106,7 +106,7 @@
   },
   {
     "id": 14,
-    "enabled": true,
+    "enabled": false,
     "name": "Paramount Channel",
     "link_m3u8": "http://paramount.live.flumotion.com/live/playlist.m3u8",
     "link_logo": ""
