@@ -11,7 +11,7 @@ Plugin Kodi: Comprime la carpeta plugin.video.tdtiberia en un fichero zip con es
 [TDTSpain2VLC] (https://github.com/EnforcerZhukov/TDTSpain2VLC) :
 Script Python para descargar el listado de canales TDT por streaming de TV-Online-TDT-Spain y convertirlo a una playlist XSPF para VLC
 
-## Status Update: **29-03-20**
+## Status Update: **30-03-20**
 
 Status| Descripción
 --- | --- |
@@ -22,7 +22,7 @@ Status| Descripción
 Status | Canal | URL 
 --- | --- | ---
 :red_circle:|La 1|http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
-:green_heart:|La 2|http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8
+:red_circle:|La 2|http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8
 :red_circle:|Antena 3|http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 :red_circle:|Cuatro|https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
 :red_circle:|Cuatro HD|http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream2/streamPlaylist.m3u8
@@ -43,7 +43,7 @@ Status | Canal | URL
 :red_circle:|Teledeporte|http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8
 :red_circle:|Teledeporte HD|http://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@39598/master.m3u8
 :red_circle:|TVE 60 aniversario|http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl0-irtve24lv3aomgl0/_definst_/live.m3u8
-:green_heart:|13TV|http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
+:red_circle:|13TV|http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
 :red_circle:|DMax|http://zba2-2-hls5-live.zahs.tv/ES_veo/master.m3u8?z32=OVZWK4S7NFSD2MJRGYZTCNJZHETG22LOOJQXIZJ5GATG2YLYOJQXIZJ5GE2TAMBGONUWOPJUMM4DAYRTGRQTSYJZGA4TEOLDMMYWMNRRGU4TEYTCGQ4TGNTEG4TGG43JMQ6TCNBZG5CTKNKFGBBUGRRTGQZTQLJTHE3TQRBYHA4UERBXIU3DQNCBEZUW42LUNFQWY4TBORST2MA
 :red_circle:|FDF|https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8
 :red_circle:|Ten|http://cdn.sitenow.me/live/ten_azj987s/chunklist.m3u8
@@ -74,8 +74,8 @@ Status | Canal | URL
 :green_heart:|Navarra TV - Navarra (NC)|http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
 :red_circle:|Vaughan TV - Navarra (NC)|http://vaughantv.streaming-pro.com:1935/live/vaughantv/playlist.m3u8
 :green_heart:|Eitb - P.Vasco (PV)|http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
-:red_circle:|TVR 10 - La Rioja (RI)|http://teledifusion.tv:1935/rioja/rioja/playlist.m3u8
-:green_heart:|Mediterraneo TV - C.Valenciana (VC)|http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/mobile/playlist.m3u8?idLive=021&referer=aHR0cDovL3RlbGVhbWUuY29tL3R2bWVkaXRlcnJhbmVvZW5kaXJlY3RvLw==&zz=m3u8
+:green_heart:|TVR 10 - La Rioja (RI)|http://teledifusion.tv:1935/rioja/rioja/playlist.m3u8
+:red_circle:|Mediterraneo TV - C.Valenciana (VC)|http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/mobile/playlist.m3u8?idLive=021&referer=aHR0cDovL3RlbGVhbWUuY29tL3R2bWVkaXRlcnJhbmVvZW5kaXJlY3RvLw==&zz=m3u8
 :green_heart:|RTV Ceuta - Ceuta (CE)|http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
 :red_circle:|Ceuta TV - Ceuta (CE)|http://cls.todostreaming.eu/anguloce/livestream/chunklist.m3u8
 :red_circle:|TV Melilla - Melilla (ML)|http://melillatv.hls.flumotion.com/melilla/live-hls-2/playlist.m3u8
