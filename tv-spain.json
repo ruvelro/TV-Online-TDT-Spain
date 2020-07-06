@@ -99,7 +99,7 @@
   },
   {
     "id": 13,
-    "enabled": true,
+    "enabled": false,
     "name": "Real Madrid TV",
     "link_m3u8": "http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8",
     "link_logo": ""
