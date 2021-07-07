@@ -325,14 +325,14 @@
     "id": 45,
     "enabled": true,
     "name": "Telemadrid - Madrid (MD)",
-    "link_m3u8": "http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live.m3u8",
+    "link_m3u8": "http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8",
     "link_logo": ""
   },
   {
     "id": 46,
     "enabled": false,
     "name": "La Otra - Madrid (MD)",
-    "link_m3u8": "http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live/stream1.m3u8",
+    "link_m3u8": "http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8",
     "link_logo": ""
   },
   {
@@ -528,7 +528,7 @@
     "id": 74,
     "enabled": false,
     "name": "Terrassa TV",
-    "link_m3u8": "http://cast.streamingconnect.tv:1935/terrassaweb/terrassaweb/playlist.m3u8",
+    "link_m3u8": "http://173.212.214.184:1935/terrassaweb/terrassaweb/playlist.m3u8",
     "link_logo": ""
   },
   {
