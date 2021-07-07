@@ -104,3 +104,4 @@ Status | Canal | URL
 :red_circle:|HispanTV|http://107.189.40.49:1935/live/hispantv/playlist.m3u8
 :red_circle:|Russia Today Español|https://secure-streams.akamaized.net/rt-esp/index.m3u8
 :red_circle:|Boing|https://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_1.m3u8
+:green_heart:|À Punt - C. Valenciana (VC)|https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8
